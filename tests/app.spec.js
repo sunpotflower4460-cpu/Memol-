@@ -13,7 +13,7 @@ test('collection views clear previous search and show the collection immediately
  await page.locator('.bookmark').first().click();await expect(page.locator('.bookmark').first()).toBeFocused();
  await page.getByRole('searchbox').fill('SMA');await expect(page.locator('#active-filters')).toBeVisible();
  await page.locator('.bottom-nav [data-view=saved]').click();
- await expect(page.locator('h1')).toHaveText('気になることを、大切に。');
+ await expect(page.locator('h1')).toHaveText('お気に入り');
  await expect(page.locator('.hero')).toBeHidden();await expect(page.locator('.stats')).toBeHidden();
  await expect(page.getByRole('searchbox')).toHaveValue('');await expect(page.locator('.opportunity')).toHaveCount(1);
  await expect(page.locator('.archive-note')).toBeVisible();
@@ -24,4 +24,26 @@ test('clear active filters without leaving the current view',async({page})=>{
  await expect(page.locator('.opportunity')).toHaveCount(1);
  await page.locator('#clear-filters').click();await expect(page.locator('.opportunity')).toHaveCount(10);
  await expect(page.locator('#current-view')).toHaveText('締切が近い');await expect(page.locator('#search')).toBeFocused();
+});
+test('mobile genre choices and primary touch targets fit the screen',async({page})=>{
+ await page.setViewportSize({width:320,height:740});await page.goto('/');
+ const categories=page.locator('[data-category]');await expect(categories).toHaveCount(7);
+ for(const button of await categories.all()){
+  const box=await button.boundingBox();expect(box.x).toBeGreaterThanOrEqual(0);expect(box.x+box.width).toBeLessThanOrEqual(320);expect(box.height).toBeGreaterThanOrEqual(44);
+ }
+ await page.locator('.card-title').first().click();
+ await expect(page.locator('#detail-dialog')).toBeVisible();await page.locator('#note').fill('狭い画面でも入力');
+ const noteBox=await page.locator('#note').boundingBox();expect(noteBox.x).toBeGreaterThanOrEqual(0);expect(noteBox.x+noteBox.width).toBeLessThanOrEqual(320);
+ await page.setViewportSize({width:740,height:320});
+ await page.locator('#detail-dialog').evaluate(dialog=>dialog.scrollTop=dialog.scrollHeight);
+ const close=page.locator('#detail-dialog .dialog-close');const closeBox=await close.boundingBox();expect(closeBox.y).toBeGreaterThanOrEqual(0);expect(closeBox.y+closeBox.height).toBeLessThanOrEqual(320);
+ await close.click();await expect(page.locator('#detail-dialog')).toBeHidden();
+});
+test('empty filtered collection explains recovery and keeps its view',async({page})=>{
+ await page.setViewportSize({width:390,height:844});await page.goto('/');
+ await page.locator('.bookmark').first().click();await page.locator('.bottom-nav [data-view=saved]').click();
+ await page.getByRole('searchbox').fill('見つからない検索');await expect(page.locator('.empty p')).toContainText('検索条件を解除');
+ await page.getByRole('button',{name:'検索条件をリセット'}).click();
+ await expect(page.locator('#current-view')).toHaveText('お気に入り');await expect(page.locator('.opportunity')).toHaveCount(1);
+ await page.locator('.bottom-nav [data-view=applied]').click();await expect(page.locator('.empty p')).toContainText('応募済みにする');
 });
