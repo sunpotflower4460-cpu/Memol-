@@ -8,3 +8,20 @@ test('category filters, sorting and closed entries',async({page})=>{await page.g
 test('install instructions and accessible modal',async({page})=>{await page.goto('/');await page.getByRole('button',{name:'ホーム画面に追加',exact:true}).first().click();await expect(page.locator('#install-dialog')).toBeVisible();await page.keyboard.press('Escape');await expect(page.locator('#install-dialog')).not.toBeVisible();});
 test('offline reload keeps all functions',async({browser})=>{const context=await browser.newContext();const page=await context.newPage();await page.clock.setFixedTime(new Date('2026-11-06T03:00:00Z'));await page.goto('/');await page.evaluate(async()=>{await navigator.serviceWorker.ready;await new Promise(resolve=>{if(navigator.serviceWorker.controller)resolve();else navigator.serviceWorker.addEventListener('controllerchange',resolve,{once:true});});});await context.setOffline(true);await page.reload();await expect(page.locator('.opportunity')).toHaveCount(82);await expect(page.locator('#connection')).toBeVisible();await page.getByRole('searchbox').fill('SMA');await expect(page.locator('.opportunity')).toHaveCount(1);await context.close();});
 test('invalid storage and invalid backup do not break app',async({page})=>{await page.addInitScript(()=>localStorage.setItem('memol-v1','broken'));await page.goto('/');await expect(page.locator('h1')).toBeVisible();await page.locator('#restore').setInputFiles({name:'invalid.json',mimeType:'application/json',buffer:Buffer.from('{}')});await expect(page.locator('#toast')).toContainText('バックアップファイル');});
+test('collection views clear previous search and show the collection immediately',async({page})=>{
+ await page.setViewportSize({width:390,height:844});await page.goto('/');
+ await page.locator('.bookmark').first().click();await expect(page.locator('.bookmark').first()).toBeFocused();
+ await page.getByRole('searchbox').fill('SMA');await expect(page.locator('#active-filters')).toBeVisible();
+ await page.locator('.bottom-nav [data-view=saved]').click();
+ await expect(page.locator('h1')).toHaveText('気になることを、大切に。');
+ await expect(page.locator('.hero')).toBeHidden();await expect(page.locator('.stats')).toBeHidden();
+ await expect(page.getByRole('searchbox')).toHaveValue('');await expect(page.locator('.opportunity')).toHaveCount(1);
+ await expect(page.locator('.archive-note')).toBeVisible();
+});
+test('clear active filters without leaving the current view',async({page})=>{
+ await page.goto('/');await page.locator('.side-nav [data-view=upcoming]').click();
+ await page.locator('[data-category="AIクリエイター"]').click();
+ await expect(page.locator('.opportunity')).toHaveCount(1);
+ await page.locator('#clear-filters').click();await expect(page.locator('.opportunity')).toHaveCount(10);
+ await expect(page.locator('#current-view')).toHaveText('締切が近い');await expect(page.locator('#search')).toBeFocused();
+});

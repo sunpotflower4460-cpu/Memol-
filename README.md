@@ -50,4 +50,14 @@ UIは Vite + JavaScript + CSS。外部フォント、外部UIライブラリ、A
 
 ## 確認した範囲
 
-データテスト7件、Chromium操作テスト8件（320px / 390px / 1440px、検索、絞り込み、お気に入り、メモ・応募状況の再読込、壊れた保存データ、インストール案内、オフライン再起動）。iOS Safari・Android実機での操作と、外部94サイトの掲載内容・リンク有効性は未確認です。
+データテスト7件、Chromium操作テスト10件（320px / 390px / 1440px、検索、絞り込み、お気に入り、メモ・応募状況の再読込、壊れた保存データ、インストール案内、オフライン再起動）。iOS Safari・Android実機での操作と、外部94サイトの掲載内容・リンク有効性は未確認です。
+
+## 画面プレビュー
+
+実装した画面をChromiumで撮影したスクリーンショットです。撮影時の端末内データは空です。
+
+![スマホのホーム・一覧・詳細画面](screenshots/preview.png)
+
+[PC画面](screenshots/desktop.png) · [スマホのホーム](screenshots/mobile-home.png) · [一覧](screenshots/mobile-discover.png) · [詳細・メモ](screenshots/mobile-detail.png)
+
+本番ビルドのプレビューを起動した状態で `node scripts/screenshots.mjs` を実行すると再撮影できます（標準はポート4173、変更時は `MEMOL_PREVIEW_URL` を指定）。

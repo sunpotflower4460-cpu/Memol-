@@ -26,9 +26,9 @@ app.innerHTML = `
 <aside class="sidebar"><a class="brand" href="./" aria-label="Memol ホーム"><span class="brand-mark">m<span>•</span></span>Memol<span class="brand-dot">.</span></a><p class="brand-caption">ひらめきを、次の一歩に。</p><div class="nav-caption">MY WORKSPACE</div><nav class="side-nav" aria-label="メインメニュー">${views.map(v=>`<button data-view="${v.id}">${icon(v.icon)}<span>${v.label}</span>${v.id==='saved'?'<span class="saved-count"></span>':''}</button>`).join('')}</nav><div class="sidebar-note">${icon('leaf')}<strong>小さな「やってみたい」を<br>大きなきっかけに。</strong><p>あなたらしいチャンスを<br>ここから見つけよう。</p></div><button class="install-link" data-install>${icon('download')}ホーム画面に追加</button><span class="sidebar-footer">YOUR NEXT CHAPTER STARTS HERE</span></aside>
 <div class="workspace"><header class="topbar"><span class="breadcrumb">ワークスペース <span>/</span> <b id="current-view">見つける</b></span><a href="./" class="mobile-brand">Memol<span>.</span></a><div class="topbar-right"><span id="connection" hidden>${icon('wifi')}オフライン</span><span class="today">${new Intl.DateTimeFormat('ja-JP',{month:'long',day:'numeric',weekday:'short',timeZone:'Asia/Tokyo'}).format(new Date())}</span><button class="mobile-install" data-install aria-label="ホーム画面に追加">${icon('download')}</button><span class="avatar" aria-label="マイワークスペース">M</span></div></header>
 <main id="main"><section class="intro"><div><p class="eyebrow">A LITTLE CURIOSITY, A NEW POSSIBILITY</p><h1 id="page-title">次のチャンスを、見つけよう。</h1><p id="page-description">気になる公募やオーディションを、あなたの次の一歩へ。</p></div><span class="intro-art" aria-hidden="true">${icon('spark')}<i></i></span></section>
-<section class="hero" aria-label="チャンスを探す"><div class="hero-copy"><span class="hero-label"><i></i> あなたの可能性、もっと広がる。</span><h2>その「好き」が、<br>新しい扉をひらく。</h2><p>音楽も、物語も、まだ名前のないアイデアも。<br>挑戦したい気持ちを、ここから。</p><button id="hero-action">締切が近いチャンスを見る ${icon('arrow')}</button></div><div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><span class="little-star star-one">✦</span><span class="little-star star-two">✧</span><div class="art-card card-back">${icon('music')}<span></span><span></span></div><div class="art-card card-front">${icon('spark')}<b>YOUR NEXT<br>CHAPTER</b><span></span><span></span><i>${icon('check')}</i></div><span class="art-caption">a possibility is waiting for you.</span></div></section>
-<section class="stats" aria-label="応募情報の集計"><button data-stat="discover"><span class="stat-icon sage">${icon('compass')}</span><span>収録されたチャンス<strong>${items.length}<small>件</small></strong></span>${icon('arrow','stat-arrow')}</button><button data-stat="upcoming"><span class="stat-icon peach">${icon('clock')}</span><span>7日以内に締切<strong id="upcoming-count"></strong></span>${icon('arrow','stat-arrow')}</button><button data-stat="saved"><span class="stat-icon lavender">${icon('bookmark')}</span><span>お気に入り<strong id="saved-stat"></strong></span>${icon('arrow','stat-arrow')}</button></section>
-<section class="finder" aria-label="応募情報の検索"><div class="section-heading"><div><h2 id="list-title">チャンスを探す</h2><span class="section-caption">あなたの興味から、次の一歩へ。</span></div><span class="source-date">情報収録：2026.11.06</span></div><div class="search-row"><label class="search">${icon('search')}<input id="search" type="search" placeholder="キーワードや主催者で検索" aria-label="キーワードや主催者で検索" autocomplete="off"><kbd>/</kbd></label><label class="sort-label">${icon('down')}<select id="sort" aria-label="並び順"><option value="deadline">締切が近い順</option><option value="name">名前順</option></select></label></div><div class="categories" role="group" aria-label="ジャンル">${[{name:'',label:'すべて',icon:'compass'}, ...categories].map(c=>`<button data-category="${c.name}" aria-pressed="false">${icon(c.icon)}${c.label}</button>`).join('')}</div><div class="results-bar"><p><strong id="result-count"></strong> 件のチャンス<span id="filter-caption"></span></p><label class="switch-label"><input type="checkbox" id="include-closed"><span class="switch"></span>終了した募集も表示</label></div><div id="results" class="results" aria-live="polite"></div></section>
+<section class="hero" aria-label="チャンスを探す"><div class="hero-copy"><span class="hero-label"><i></i> あなたの可能性、もっと広がる。</span><h2>その「好き」が、<br>新しい扉をひらく<span class="hero-period">。</span></h2><p>音楽も、物語も、まだ名前のないアイデアも。<br>挑戦したい気持ちを、ここから。</p><button id="hero-action">締切が近いチャンスを見る ${icon('arrow')}</button></div><div class="hero-art" aria-hidden="true"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><span class="little-star star-one">✦</span><span class="little-star star-two">✧</span><div class="art-card card-back">${icon('music')}<span></span><span></span></div><div class="art-card card-front">${icon('spark')}<b>YOUR NEXT<br>CHAPTER</b><span></span><span></span><i>${icon('check')}</i></div><span class="art-caption">a possibility is waiting for you.</span></div></section>
+<section class="stats" aria-label="応募情報の集計"><button data-stat="discover"><span class="stat-icon sage">${icon('compass')}</span><span>収録チャンス<strong>${items.length}<small>件</small></strong></span>${icon('arrow','stat-arrow')}</button><button data-stat="upcoming"><span class="stat-icon peach">${icon('clock')}</span><span>7日以内に締切<strong id="upcoming-count"></strong></span>${icon('arrow','stat-arrow')}</button><button data-stat="saved"><span class="stat-icon lavender">${icon('bookmark')}</span><span>お気に入り<strong id="saved-stat"></strong></span>${icon('arrow','stat-arrow')}</button></section>
+<section class="finder" aria-label="応募情報の検索"><div class="section-heading"><div><h2 id="list-title">チャンスを探す</h2><span class="section-caption">あなたの興味から、次の一歩へ。</span></div><span class="source-date">情報収録：2026.11.06</span></div><div class="search-row"><label class="search">${icon('search')}<input id="search" type="search" placeholder="キーワードや主催者で検索" aria-label="キーワードや主催者で検索" autocomplete="off"><kbd>/</kbd></label><label class="sort-label">${icon('down')}<select id="sort" aria-label="並び順"><option value="deadline">締切が近い順</option><option value="name">名前順</option></select></label></div><div class="categories" role="group" aria-label="ジャンル">${[{name:'',label:'すべて',icon:'compass'}, ...categories].map(c=>`<button data-category="${c.name}" aria-pressed="false">${icon(c.icon)}${c.label}</button>`).join('')}</div><div class="active-filters" id="active-filters" hidden><span id="active-filter-label"></span><button id="clear-filters">条件をクリア ${icon('close')}</button></div><div class="results-bar"><p><strong id="result-count"></strong> 件のチャンス<span id="filter-caption"></span></p><span class="archive-note" hidden>終了した募集も含めて表示</span><label class="switch-label"><input type="checkbox" id="include-closed"><span class="switch"></span>終了した募集も表示</label></div><div id="results" class="results" aria-live="polite"></div></section>
 <footer class="page-footer">${icon('info')}<p>締切の表示は日本時間・日付単位です。応募条件や締切時刻はリンク先でご確認ください。<br>お気に入り・応募状況・メモは、このブラウザに保存されます。</p><button id="backup">データを保存 ${icon('download')}</button><label class="restore">復元<input type="file" id="restore" accept="application/json,.json"></label></footer></main></div>
 <nav class="bottom-nav" aria-label="スマホメニュー">${views.map(v=>`<button data-view="${v.id}">${icon(v.icon)}<span>${v.label}</span></button>`).join('')}</nav>
 <dialog id="detail-dialog" aria-labelledby="detail-title"></dialog><dialog id="install-dialog" aria-labelledby="install-title"><button class="dialog-close" aria-label="閉じる">${icon('close')}</button><span class="dialog-symbol sage">${icon('download')}</span><h2 id="install-title">Memolを、いつも手元に。</h2><p>ホーム画面に追加すると、アプリのように開けます。一度読み込めば、オフラインでも一覧を確認できます。</p><div class="install-steps"><strong>iPhone・iPad（Safari）</strong><p>共有ボタン →「ホーム画面に追加」</p><strong>Android（Chrome）</strong><p>メニュー →「アプリをインストール」または「ホーム画面に追加」</p></div><p class="muted">HTTPSで公開されたURLから開いてください。保存したデータは端末間で自動同期されません。</p><button id="native-install" class="primary" hidden>この端末にインストール</button><button class="secondary dialog-done">わかりました</button></dialog><div id="toast" role="status"></div>`;
@@ -36,7 +36,29 @@ function persist() { try { if (!storage) throw new Error(); storage.setItem('mem
 let toastTimer;
 function toast(message) { const el=document.querySelector('#toast');el.textContent=message;el.classList.add('visible');clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove('visible'),4000); }
 function render() {
+ const focused = document.activeElement?.closest('[data-save], [data-detail]');
+ const focusedAction = focused?.hasAttribute('data-save') ? 'data-save' : 'data-detail';
+ const focusedId = focused?.getAttribute(focusedAction);
  const selected=selectItems(items,{...filter,...data});
+ const pageCopy = {
+   discover: ['次のチャンスを、見つけよう。', '気になる公募やオーディションを、あなたの次の一歩へ。', 'A LITTLE CURIOSITY, A NEW POSSIBILITY'],
+   upcoming: ['「やってみたい」を、今こそ。', '今日から7日以内に締切を迎える募集をまとめました。', 'MAKE YOUR NEXT MOVE'],
+   saved: ['気になることを、大切に。', '見つけたチャンスを、自分だけのコレクションに。', 'YOUR PERSONAL COLLECTION'],
+   applied: ['踏み出した一歩を、ここに。', '応募したチャンスと、あなたの挑戦の記録。', 'EVERY STEP COUNTS']
+ }[filter.view];
+ document.querySelector('#page-title').textContent=pageCopy[0];
+ document.querySelector('#page-description').textContent=pageCopy[1];
+ document.querySelector('.eyebrow').textContent=pageCopy[2];
+ document.querySelector('.hero').hidden=filter.view!=='discover';
+ document.querySelector('.stats').hidden=filter.view!=='discover';
+ document.querySelector('.workspace').dataset.page=filter.view;
+ const archive=filter.view==='saved'||filter.view==='applied';
+ document.querySelector('.switch-label').hidden=archive;
+ document.querySelector('.archive-note').hidden=!archive;
+ const hasFilters=!!(filter.query.trim()||filter.category);
+ document.querySelector('#active-filters').hidden=!hasFilters;
+ document.querySelector('#active-filter-label').textContent=[filter.query.trim()?`「${filter.query.trim()}」`:null, categories.find(c=>c.name===filter.category)?.label].filter(Boolean).join(' / ');
+
  document.querySelectorAll('[data-view]').forEach(el=>{const active=el.dataset.view===filter.view;el.classList.toggle('active',active);el.setAttribute('aria-current',active?'page':'false');});
  document.querySelectorAll('[data-category]').forEach(el=>el.setAttribute('aria-pressed',String(el.dataset.category===filter.category)));
  const count=Object.values(data.saved).filter(Boolean).length;
@@ -51,10 +73,23 @@ function render() {
  document.querySelector('#results').innerHTML=selected.length?selected.map(item=>{
  const c=categories.find(c=>c.name===item.category),s=status(item),days=remaining(item),saved=!!data.saved[item.id];
  const urgent=days!==null&&days>=0&&days<=7&&s!=='募集開始前';
- return `<article class="opportunity ${s==='終了'?'closed':''}"><div class="card-top"><span class="category-icon ${c.color}">${icon(c.icon)}</span><span class="category-name">${c.label}</span><button class="bookmark ${saved?'is-saved':''}" data-save="${esc(item.id)}" aria-label="${esc(item.title)}を${saved?'お気に入りから削除':'お気に入りに追加'}" aria-pressed="${saved}">${icon('bookmark')}</button></div><button class="card-title" data-detail="${esc(item.id)}"><h3>${esc(item.title)}</h3></button><p class="organizer">${esc(item.organizer)}</p><div class="card-meta"><span class="status ${urgent?'urgent':''} ${s==='終了'?'ended':''}"><i></i>${data.applied[item.id]?'応募済み':s}</span>${urgent?`<span class="days">${days===0?'今日まで':`あと${days}日`}</span>`:''}</div><div class="card-bottom"><span>${icon('calendar')}<span>${item.deadline?esc(item.deadline.replaceAll('-','.')):esc(item.deadlineText)}<small>締切</small></span></span><button data-detail="${esc(item.id)}" aria-label="${esc(item.title)}の詳細を見る">詳細を見る ${icon('arrow')}</button></div></article>`;
+ return `<article class="opportunity ${s==='終了'?'closed':''}"><div class="card-top"><span class="category-icon ${c.color}">${icon(c.icon)}</span><span class="category-name">${c.label}</span><button class="bookmark ${saved?'is-saved':''}" data-save="${esc(item.id)}" aria-label="${esc(item.title)}を${saved?'お気に入りから削除':'お気に入りに追加'}" aria-pressed="${saved}">${icon('bookmark')}</button></div><button class="card-title" data-detail="${esc(item.id)}"><h3>${esc(item.title)}</h3></button><p class="organizer">${esc(item.organizer)}</p><div class="card-meta"><span class="status ${data.applied[item.id]?'applied':urgent?'urgent':''} ${s==='終了'?'ended':''}"><i></i>${data.applied[item.id]?'応募済み':s}</span>${urgent?`<span class="days">${days===0?'今日まで':`あと${days}日`}</span>`:''}</div><div class="card-bottom"><span>${icon('calendar')}<span>${item.deadline?esc(item.deadline.replaceAll('-','.')):esc(item.deadlineText)}<small>締切</small></span></span><button data-detail="${esc(item.id)}" aria-label="${esc(item.title)}の詳細を見る">詳細を見る ${icon('arrow')}</button></div></article>`;
  }).join(''):`<div class="empty">${icon(filter.view==='saved'?'bookmark':'search')}<h3>${filter.view==='saved'&&!filter.query&&!filter.category?'気になるチャンスを、ここに。':'該当するチャンスがありません'}</h3><p>${filter.view==='saved'?'カードのしおりマークを押して保存できます。':'キーワードやジャンル、表示条件を変えて探してみましょう。'}</p><button id="reset-filter" class="secondary">${filter.view==='saved'||filter.view==='applied'?'チャンスを探す':'検索条件をリセット'}</button></div>`;
+ if(focusedId) {
+   const replacement=[...document.querySelectorAll(`[${focusedAction}]`)].find(el=>el.getAttribute(focusedAction)===focusedId&&el.className===focused.className);
+   // A saved bookmark changes its class when toggled; preserve keyboard focus either way.
+   (replacement || [...document.querySelectorAll(`[${focusedAction}]`)].find(el=>el.getAttribute(focusedAction)===focusedId))?.focus({preventScroll:true});
+ }
 }
-function changeView(view) {filter.view=view;render();document.querySelector('.finder').scrollIntoView({behavior:'smooth',block:'start'});}
+
+function clearFilters() {
+ filter.category='';filter.query='';document.querySelector('#search').value='';
+}
+function changeView(view) {
+ filter.view=view;clearFilters();render();
+ window.scrollTo({top:0,behavior:'smooth'});
+}
+
 function openDetail(id) {
  const item=items.find(i=>i.id===id);if(!item)return;
  const c=categories.find(c=>c.name===item.category),dialog=document.querySelector('#detail-dialog');
@@ -72,6 +107,7 @@ app.addEventListener('click',e=>{
  const detail=e.target.closest('[data-detail]');if(detail)openDetail(detail.dataset.detail);
  if(e.target.closest('.dialog-close, .dialog-done'))e.target.closest('dialog').close();
  if(e.target.closest('[data-install]'))document.querySelector('#install-dialog').showModal();
+ if(e.target.closest('#clear-filters')){clearFilters();render();document.querySelector('#search').focus();}
  if(e.target.closest('#reset-filter')){filter={view:'discover',category:'',query:'',sort:'deadline',includeClosed:false};document.querySelector('#search').value='';document.querySelector('#include-closed').checked=false;document.querySelector('#sort').value='deadline';render();}
 });
 document.querySelector('#search').oninput=e=>{filter.query=e.target.value;render();};
