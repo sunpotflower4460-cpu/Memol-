@@ -1,138 +1,63 @@
-# 応募系まとめ（オーディション・公募・コンテスト・キャンペーン）
+# Memol
 
-これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **94件**、すべて公式ページ等へのリンク付き。
+「ひらめきを、次の一歩に。」公募・オーディション・コンテスト94件を探し、自分の応募状況を管理するスマホ対応PWAです。
 
-状態は **2026年11月6日時点** のものです（受付中 77件／本日締切 3件／募集開始前 1件／継続中 1件／終了 12件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
+## スマホで使うまで
 
-## ジャンル一覧
+1. この変更を `main` にマージします。
+2. GitHub の **Settings → Pages → Build and deployment → Source** を **GitHub Actions** にします。
+3. **Actions → Deploy to GitHub Pages → Run workflow** を実行します（以降は main 更新時に自動公開）。
+4. 成功したワークフローの公開URLをスマホで開きます。通常は `https://sunpotflower4460-cpu.github.io/Memol-/` です。
+5. iPhone は Safari の共有メニュー →「ホーム画面に追加」、Android は Chrome のメニュー →「アプリをインストール」または「ホーム画面に追加」。アプリ内のダウンロードアイコンからも案内を開けます。
 
-- 音楽オーディション・出演者募集（29件）
-- 作曲・楽曲コンペ（9件）
-- 小説・物語（29件）
-- AIクリエイター（9件）
-- インディーゲーム（4件）
-- 懸賞・キャンペーン・その他（14件）
+公開・実機インストールはこのリポジトリへの変更だけでは完了しません。GitHub Pages の設定と実機での追加が必要です。
 
-## 音楽オーディション・出演者募集
+## できること
 
-| 締切 | 案件名 | 主催 | 状態 |
-|---|---|---|---|
-| 2026年11月5日 | [「情歌王」～うまい歌より、心に響く歌～決定オーディション](https://www.audition-debut.com/audition/list/detail/id=15857) | 一般社団法人OSAKAあかるクラブ | 終了 |
-| 2026年11月5日 | [映画『塩あずきパルダリウム』エンディングテーマ ボーカリストオーディション](https://www.mache.tv/event/soltadzukivocal/detail/) | マシェバラ／映画『塩あずきパルダリウム』製作 | 終了 |
-| 2026年11月5日 | [lovepunk「このままじゃダメなんだよ！」女性出演者募集](https://audition.nerim.info/audition-202611/audition-2026101113.html) | lovepunk | 終了 |
-| 2026年11月7日 | [音なりオーディション2026](https://rt-audition2026.j-audition.net) | 音なりオーディション実行委員会 | 受付中 |
-| 2026年11月8日 | [Music Stories「Love and Harmony #2」女性キャストオーディション](https://www.audition-match.com/261016-2/) | 株式会社FMAカンパニー | 受付中 |
-| 2026年11月10日 | [1分で簡単応募！Youtubeボーカルオーディション2026](https://music-audition.net/audition/12585/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
-| 2026年11月14日 | [Xector1 オリジナル楽曲プレゼントオーディション2026](https://music-audition.net/audition/19968/) | Xector1 Production | 受付中 |
-| 2026年11月15日 | [OTONOVA2027](https://auditionjapan.jp/detail/a9e0bdfa-7419-4a24-ba4e-f6b0ac23be80/) | 株式会社ベネフィット・ワン | 受付中 |
-| 2026年11月15日 | [ママを応援する音楽ユニット「ママの味方」女性歌手募集](https://music-audition.net/audition/20794/) | 合同会社ミンクリシステムサポート | 受付中 |
-| 2026年11月20日 | [ArtPoolRecordsボーカルオーディション2026](https://music-audition.net/audition/17782/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
-| 2026年11月20日 | [サムライロックオーケストラ 2027年新作品出演キャスト募集](https://music-audition.net/audition/20828/) | 株式会社サムライ・ロック・オーケストラ | 受付中 |
-| 2026年11月21日 | ["ユメウタPROJECT" 新作アニメ主題歌&声優デビューオーディション](https://www.audition-match.com/261017/) | THE RAIN-MAKER | 受付中 |
-| 2026年11月23日 | [『D4DJ』新ユニットメンバーオーディション](https://mixch.tv/p/9xo6czll) | 株式会社スレイプニル／BADKNee | 受付中 |
-| 2026年11月24日 | [LUE｜LUE 初期メンバーオーディション](https://kyampus.me/AU-2026-11-02-351) | BLINK PRODUCTION | 受付中 |
-| 2026年11月29日 | [TOKYO MX2『きらめき放送局』EDテーマオーディション](https://music-audition.net/audition/20870/) | きらめき放送局（Mudia投票審査） | 受付中 |
-| 2026年11月30日 | [DJHAKK カラオケ好き歌手オーディション](https://music-audition.net/audition/20830/) | DJHAKK | 受付中 |
-| 2026年11月30日 | [STPR BOYS AUDITION](https://boys.stpr.com/) | 株式会社STPR | 受付中 |
-| 2026年11月30日 | [キャストパワーオーディション](https://music-audition.net/audition/castpower/) | キャストパワーネクスト | 受付中 |
-| 2026年11月30日 | [アニソン ボーカル＆声優オーディション](https://music-audition.net/audition/15121/) | ノーリーズンファーム | 受付中 |
-| 2026年11月30日 | [MUZARK ENTERTAINMENT 特別オーディション開催](https://kyampus.me/AU-20260711-191) | 株式会社ミューズアーク | 受付中 |
-| 2026年11月30日 | [豪華声優総出演！AIアニメ映画の主題歌女性シンガー募集（『ガラ☆クタ』）](https://kyampus.me/AU-2026-09-30-289) | ケンケンクリエイト | 受付中 |
-| 2026年11月30日 | [NordTuneRecordsアイドルメンバー募集](https://music-audition.net/audition/15519/) | 株式会社ノースサウンド（Nord Tune Records） | 受付中 |
-| 2026年11月30日 | [地上波TV学園ドラマレギュラー「転校生は宇宙人」出演者募集](https://kyampus.me/AU-2026-10-07-308) | きらめき放送局製作委員会 | 受付中 |
-| 2026年12月1日 | [Xector1 新世代シンガーデビューオーディション2026](https://music-audition.net/audition/18390/) | Xector1 Production | 受付中 |
-| 2026年12月1日 | [顔出しNGボーカルオーディション](https://music-audition.net/audition/15249/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
-| 2026年12月31日 | [BLUE WORLD 男性ボーカル・ダンサー募集](https://music-audition.net/audition/20851/) | BLUE WORLD合同会社 | 受付中 |
-| 2026年12月31日 | [Singer Stage 第2期所属シンガー募集](https://music-audition.net/audition/20626/) | 株式会社RELEAD（Singer Stage） | 受付中 |
-| 2027年1月31日 | [Rhythm-Garden Project Vsingerオーディション](https://rhythm-garden.com/audition/) | Rhythm-Garden Project（リズプロ） | 受付中 |
-| 毎月末日 | [SMAマンスリーオーディション](https://www.sma-audition.com/monthly/) | 株式会社ソニー・ミュージックアーティスツ | 継続中 |
+- キーワード・主催者の検索（全角英数も対応）、6ジャンルの絞り込み、締切順・名前順
+- 日本時間での締切計算、7日以内に締切の募集を表示、終了した募集の切り替え
+- お気に入り、応募済みの管理、自分用メモ
+- JSON バックアップの保存と復元（既存データにマージ。同じ項目はバックアップ優先）
+- ホーム画面追加、初回読み込み後のオフライン起動・検索・メモ
+- PC、タブレット、スマホ向けのレイアウト、キーボード操作、動きを減らす設定への対応
 
-## 作曲・楽曲コンペ
+保存先は端末・ブラウザごとの localStorage です。自動同期・プッシュ通知・ログイン機能はありません。ブラウザのデータ消去で失われるため、必要に応じて画面下の「データを保存」を使ってください。通信がない間、外部の応募ページは開けません。
 
-| 締切 | 案件名 | 主催 | 状態 |
-|---|---|---|---|
-| 2026年11月21日 | [【作曲コンテスト2026】Mコン Vol.2 – Christmas Original Song Contest 2026](https://www.music-hearts.com/mcon-vol2-christmas-2026) | DTMスクール Music Hearts | 受付中 |
-| 2026年11月30日 | [一緒に作ろう！第37回楽曲コンテスト プロセカNEXT](https://koubo.jp/contest/387281) | 株式会社セガ／株式会社Colorful Palette | 受付中 |
-| 2026年11月30日 | [名古屋市音楽プラザ 音楽サロンBGM用音源募集（2026年度）](https://nagoya-shimin.hall-info.jp/plaza/) | 名古屋市音楽プラザ | 受付中 |
-| 2026年12月4日 | [第37回 新唄大賞](https://www.rokinawa.co.jp/all/20230) | 株式会社ラジオ沖縄 | 受付中 |
-| 2026年12月11日 | [第35回 サウンズコンテスト ON THE COMPUTER](https://compe.japandesign.ne.jp/oisa-sounds-2026/) | 大分県情報サービス産業協会 | 受付中 |
-| 2026年12月14日 | [初音ミク「マジカルミライ 2027」楽曲コンテスト](https://koubo.jp/contest/376003) | クリプトン・フューチャー・メディア株式会社 | 受付中 |
-| 2027年1月31日 | [虹コンテスト Powered by 楽曲収益化サービス](https://www.oricon.co.jp/pressrelease/3061738/) | 株式会社ドワンゴ（楽曲収益化サービス） | 受付中 |
-| 2027年1月31日 | [第7回 ISAC国際ポピュラー＆メディア 作曲コンクール](https://www.iseshimaart.com/popular-music-composition-competition) | 株式会社伊勢志摩アート・カンパニー | 受付中 |
-| 2027年3月31日 | [第24回日本歌曲コンクール〈作曲部門〉](https://nihonkakyokunaminokai.com/competition/260701-270831/) | 日本歌曲コンクール | 受付中 |
+## データについて
 
-## 小説・物語
+元の README の一覧は [public/opportunities.md](public/opportunities.md) にそのまま保存しています。**2026年11月6日収録の94件**です。情報を更新するときは、このMarkdownの表を編集して再ビルドしてください。募集自体の更新や公式サイトの巡回は自動では行いません。
 
-| 締切 | 案件名 | 主催 | 状態 |
-|---|---|---|---|
-| 2026年10月31日 | [第70回 群像新人文学賞](https://gunzou.kodansha.co.jp/awards) | 講談社 | 終了 |
-| 2026年10月31日 | [第37回 鮎川哲也賞](https://www.tsogen.co.jp/award/ayukawa/) | 東京創元社 | 終了 |
-| 2026年11月1日 | [秋の140字文学賞](https://www.combeez.com/corp/campaign016/) | 株式会社コンビーズ | 終了 |
-| 2026年11月4日 | [第4回ピッコマノベルズ大賞 番外編](https://koubo.jp/contest/376268) | カカオピッコマ | 終了 |
-| 2026年11月4日 | [2027年 ふくい新春文芸](https://koubo.jp/contest/374584) | 株式会社福井新聞社 | 終了 |
-| 2026年11月9日 | [第24回 講談社ラノベ文庫新人賞](https://lanove.kodansha.co.jp/award/rookie/) | 講談社 | 受付中 |
-| 2026年11月9日 | [第19回 W選考委員版「小説でもどうぞ」](https://koubo.jp/contest/384682) | 公募ガイド社 | 受付中 |
-| 2026年11月15日 | [第10回仙台短編文学賞](https://koubo.jp/contest/313481) | 仙台短編文学賞実行委員会（荒蝦夷・プレスアート・河北新報社） | 受付中 |
-| 2026年11月15日 | [中村航選 第14回プロットだけ大賞](https://koubo.jp/contest/381593) | 公募ガイド社 | 受付中 |
-| 2026年11月16日 | [第11回 アース・スターノベル大賞](https://earthstar-novel.com/esn-award/aw-11/) | アース・スター（小説家になろう） | 受付中 |
-| 2026年11月16日 | [超・妄想コンテスト 第277回「お塩・お砂糖」](https://estar.jp/official_contests/159905) | 株式会社エブリスタ | 受付中 |
-| 2026年11月18日 | [第1回 アース・スター文庫キャラクター小説大賞](https://kakuyomu.jp/contests/earthstar_2026/detail) | アース・スター（カクヨム） | 受付中 |
-| 2026年11月20日 | [第1回 角川春樹文庫大賞](http://www.kadokawaharuki.co.jp/newcomer/) | 角川春樹事務所 | 受付中 |
-| 2026年11月30日 | [第19回 GA文庫大賞 後期](https://ga.sbcr.jp/novel/taisyo/19/) | SBクリエイティブ | 受付中 |
-| 2026年11月30日 | [第49回 小説推理新人賞](https://fr.futabasha.co.jp/special/suiri_award/) | 双葉社 | 受付中 |
-| 2026年11月30日 | [第21回 金魚屋新人賞](https://gold-fish-press.com/archives/105342) | 金魚屋プレス日本版 | 受付中 |
-| 2026年11月30日 | [第64回 高橋源一郎の「小説でもどうぞ」](https://koubo.jp/contest/384716) | 公募ガイド社 | 受付中 |
-| 2026年11月30日 | [第5回 ハナショウブ小説賞](https://opsolbook.com/hanashoubu/vol5/) | opsol book | 受付中 |
-| 2026年11月30日 | [pixiv Writing Challenge ~ Contract ~](https://www.pixiv.net/novel/contest/contractnovel) | pixiv株式会社 | 受付中 |
-| 2026年12月10日 | [第43回 太宰治賞](https://www.chikumashobo.co.jp/dazai/article/111350/) | 筑摩書房・三鷹市 | 受付中 |
-| 2026年12月27日 | [第7回 たはら言の葉コンクール](https://compe.japandesign.ne.jp/tahara-kotonoha-2026/) | 田原市中央図書館 | 受付中 |
-| 2026年12月31日 | [第241回 集英社短編小説新人賞](https://orangebunko.shueisha.co.jp/newface-award) | 株式会社集英社 | 受付中 |
-| 2026年12月31日 | [第12回 空華文学賞](https://mutoukai.com/award.html) | 文藝同人無刀会 | 受付中 |
-| 2026年12月31日 | [はじめての小説文学賞](https://www.gentosha-book.com/pickup/novel_literature/) | 幻冬舎ルネッサンス | 受付中 |
-| 2026年12月31日 | [第23回 MF文庫J ライトノベル新人賞](https://promo.kadokawa.co.jp/mfbunkoj/rookie/award/) | KADOKAWA（MF文庫J編集部） | 受付中 |
-| 2026年12月31日 | [第14回 オーバーラップ文庫大賞 第2ターン](https://over-lap.co.jp/bunko/award/) | 株式会社オーバーラップ | 受付中 |
-| 2027年1月12日 | [京王電鉄×Nola「えき・まち・未来」短編SF小説コンテスト](https://contest.nola-novel.com/keio-2026/) | 株式会社indent（Nola）／京王電鉄 | 受付中 |
-| 2027年1月29日 | [第4回有吉佐和子文学賞](https://www.city.wakayama.wakayama.jp/kurashi/bunka_sports/1001119/1055471.html) | 和歌山市 | 受付中 |
-| 2027年2月1日 | [カクヨムコンテスト12（長編・短編）](https://kakuyomu.jp/special/entry/kakuyomu_contest_12) | 株式会社KADOKAWA（カクヨム） | 募集開始前（12/1開始） |
+締切は日本時間の日付で判定し、その日の終了まで表示します。公式の締切時刻や受付終了を自動取得しているわけではないため、応募前にリンク先を確認してください。毎月募集の案件は、具体的な締切が不明のため「7日以内」に含めません。お気に入り・応募済みでは終了した案件も残します。
 
-## AIクリエイター
+## 開発
 
-| 締切 | 案件名 | 主催 | 状態 |
-|---|---|---|---|
-| 2026年11月3日 | [AI MUSIC VIDEO WAVE 2026](https://jacio.or.jp/aimvwave2026/) | 一般社団法人日本AI創造振興機構（JACIO）/ Japan AI Creative Contest（JACC） | 終了 |
-| 2026年11月3日 | [川越ハッピーハロウィン フォト＆AI画像 コンテスト2026](https://koubo.jp/contest/388807) | クレアモール川越新富町商店街振興組合 | 終了 |
-| 2026年11月4日 | [PixAI × zeta オリキャラコンテスト2026](https://pixai.art/ja/event/zeta) | PixAI | 終了 |
-| 2026年11月6日 | [さばえeスポーツDAY AIイラストコンテスト](https://compe.japandesign.ne.jp/sabae-ai-illustration-2026/) | さばえeスポーツDAY運営委員会 | 本日締切 |
-| 2026年11月15日 | [太秦歴史AIショートコンテスト2026](https://ai-creators.tech/media/event/uzumasa-jidai/) | 太秦上洛まつり | 受付中 |
-| 2026年11月16日 | [【AICU Award連携企画】#人工現実モラトリアム MessageVideo](https://note.com/aicu/n/na32bdfde53bb) | AICU Japan株式会社 | 受付中 |
-| 2026年11月30日 | [MangaNow Award 2026 supported by キャラフル](https://manganow.ai/charaful-award-2026) | 株式会社IMAKAI／キャラフル | 受付中 |
-| 2026年12月15日 | [ISEKAI ZERO AI原作コンテスト](https://contest.isekaizero.ai/) | 異世界フロンティア株式会社 | 受付中 |
-| 2026年12月15日 | [第5回 身延山大学「Kanjin」アートコンテスト](https://art.min.ac.jp/) | 学校法人 身延山学園 身延山大学 | 受付中 |
+Node.js 22.12 以上を使用します。
 
-## インディーゲーム
+```sh
+npm ci
+npm run dev
+```
 
-| 締切 | 案件名 | 主催 | 状態 |
-|---|---|---|---|
-| 2026年11月6日 | [Tokyo esports Game Development Contest 2027](https://tokyoesportsfesta.jp/) | 東京都／東京eスポーツフェスタ実行委員会 | 本日締切 |
-| 2026年11月15日 | [TOKYO INDIE GAMES SUMMIT 2027 一般クリエイター出展枠](https://indiegamessummit.tokyo/news/) | TOKYO INDIE GAMES SUMMIT運営事務局（Phoenixx） | 受付中 |
-| 2026年11月24日 | [INDIE Live Expo 応援配信者募集](https://indie.live-expo.games/contact/support/) | INDIE Live Expo実行委員会 | 受付中 |
-| 2027年1月31日 | [BitSummit 2027 一般出展エントリー（BitSummit Official Indie Selection）](https://bitsummit.org/submission-faq-jpn/) | BitSummit実行委員会（一般社団法人日本インディペンデント・ゲーム協会） | 受付中 |
+```sh
+npm test              # データ解析・日付・絞り込み・保存データの検証
+npm run build         # dist に本番用ビルドとオフラインキャッシュを生成
+npx playwright install chromium # 初回のみ。Linux で依存不足なら --with-deps を付ける
+npm run test:e2e      # 本番ビルドを使ったブラウザ操作テスト
+npm run preview      # 本番ビルドの確認
+```
 
-## 懸賞・キャンペーン・その他
+UIは Vite + JavaScript + CSS。外部フォント、外部UIライブラリ、APIキーは不要です。相対パスでビルドするため、GitHub Pages のリポジトリ配下にも配置できます。Service Worker はビルド全体のハッシュでキャッシュを更新し、開いている旧版を閉じてから新しい版に切り替えます。
 
-| 締切 | 案件名 | 主催 | 状態 |
-|---|---|---|---|
-| 2026年11月1日 | [DJI POWER JAPAN プレゼントキャンペーン](https://koubo.jp/contest/395349) | DJI POWER JAPAN | 終了 |
-| 2026年11月6日 | [PlayStation Partner Awards 2026 ユーザー投票（INDEPENDENT CREATORS' AWARD）](https://www.playstation.com/ja-jp/local/events/playstation-awards/vote/) | ソニー・インタラクティブエンタテインメント | 本日締切 |
-| 2026年11月8日 | [アイシーまんがアトリエBOX PRO SNSキャンペーン](https://prtimes.jp/main/html/rd/p/000000123.000138307.html) | 株式会社G-Too（アイシー） | 受付中 |
-| 2026年11月8日 | [第1回 カヨトイズ塗り絵コンテスト](https://koubo.jp/contest/392470) | カヨトイズ（カヨ通商株式会社） | 受付中 |
-| 2026年11月20日 | [CREATIVE VILLAGE 秋のプレゼントキャンペーン'26](https://www.creativevillage.ne.jp/category/news/notices/180169/) | 株式会社クリーク・アンド・リバー社 | 受付中 |
-| 2026年11月23日 | [INDIE Live Expo Awards ユーザー投票決勝ラウンド PS5プレゼント](https://dengekionline.com/article/202610/92178) | INDIE Live Expo実行委員会 | 受付中 |
-| 2026年11月23日 | [DLsite創業祭2026 大江どすこい診断キャンペーン](https://www.dlsite.com/modpub/founding-festival2026/home/dosukoi-shindan/) | 株式会社エイシス（DLsite） | 受付中 |
-| 2026年11月25日 | [アズールプロミリア 11月26日リリース決定記念キャンペーン](https://www.shinobin.com/post/4656) | アズールプロミリア公式 | 受付中 |
-| 2026年11月30日 | [ウィズジェネレーション サービス開始日決定記念キャンペーン](https://colopl.co.jp/news/pressrelease/2026103001.php) | 株式会社コロプラ | 受付中 |
-| 2026年11月30日 | [フェローズつながるクリエイターズ](https://www.value-press.com/pressrelease/383162) | 株式会社フェローズ | 受付中 |
-| 2026年11月30日 | [西日本新聞創刊150周年記念懸賞](https://koubo.jp/contest/399142) | 西日本新聞 | 受付中 |
-| 2026年12月24日 | [HUIONイラストコンテスト2026](https://koubo.jp/contest/396960) | ART street（株式会社MediBang） | 受付中 |
-| 2027年1月1日 | [第7回SDGs「誰ひとり取り残さない」小論文／イラスト／AIコンテスト](https://nogezaka-glocal.com/sdg7/) | 野毛坂グローカル | 受付中 |
-| 2027年1月8日 | [OITA DIGITAL CONTENTS AWARD 2026](https://oden.pref.oita.jp/topics/oita-digital-contents-award-2026/) | 大分県デジタルコンテンツ産業振興協議会 | 受付中 |
+## 確認した範囲
+
+データテスト7件、Chromium操作テスト12件（320px / 390px / 1440px、検索、絞り込み、お気に入り、メモ・応募状況の再読込、壊れた保存データ、インストール案内、オフライン再起動）。追加で、スマホの全ジャンル表示・44px以上の操作範囲・横向きの詳細画面・空の一覧からの復帰を確認しています。iOS Safari・Android実機での操作と、外部94サイトの掲載内容・リンク有効性は未確認です。
+
+## 画面プレビュー
+
+実装した画面をChromiumで撮影したスクリーンショットです。撮影時の端末内データは空です。
+
+![スマホのホーム・一覧・詳細画面](screenshots/preview.png)
+
+[PC画面](screenshots/desktop.png) · [スマホのホーム](screenshots/mobile-home.png) · [一覧](screenshots/mobile-discover.png) · [詳細・メモ](screenshots/mobile-detail.png)
+
+本番ビルドのプレビューを起動した状態で `node scripts/screenshots.mjs` を実行すると再撮影できます（標準はポート4173、変更時は `MEMOL_PREVIEW_URL` を指定）。
