@@ -1,17 +1,17 @@
 # 応募系まとめ（オーディション・公募・コンテスト・キャンペーン）
 
-これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **94件**、すべて公式ページ等へのリンク付き。
+これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **109件**、すべて公式ページ等へのリンク付き。
 
-状態は **2026年11月6日時点** のものです（受付中 77件／本日締切 3件／募集開始前 1件／継続中 1件／終了 12件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
+状態は **2026年11月6日時点** のものです（受付中 89件／本日締切 4件／募集開始前 3件／継続中 1件／終了 12件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
 
 ## ジャンル一覧
 
 - 音楽オーディション・出演者募集（29件）
-- 作曲・楽曲コンペ（9件）
-- 小説・物語（29件）
-- AIクリエイター（9件）
-- インディーゲーム（4件）
-- 懸賞・キャンペーン・その他（14件）
+- 作曲・楽曲コンペ（10件）
+- 小説・物語（39件）
+- AIクリエイター（11件）
+- インディーゲーム（5件）
+- 懸賞・キャンペーン・その他（15件）
 
 ## 音楽オーディション・出演者募集
 
@@ -57,6 +57,7 @@
 | 2026年12月4日 | [第37回 新唄大賞](https://www.rokinawa.co.jp/all/20230) | 株式会社ラジオ沖縄 | 受付中 |
 | 2026年12月11日 | [第35回 サウンズコンテスト ON THE COMPUTER](https://compe.japandesign.ne.jp/oisa-sounds-2026/) | 大分県情報サービス産業協会 | 受付中 |
 | 2026年12月14日 | [初音ミク「マジカルミライ 2027」楽曲コンテスト](https://koubo.jp/contest/376003) | クリプトン・フューチャー・メディア株式会社 | 受付中 |
+| 2026年12月31日 | [ギャラクシティ大感謝祭 みらい創造フェス 映像に音楽をつけよう「作曲コンテスト」](https://koubo.jp/contest/399110) | ギャラクシティ指定管理者みらい創造堂 | 受付中 |
 | 2027年1月31日 | [虹コンテスト Powered by 楽曲収益化サービス](https://www.oricon.co.jp/pressrelease/3061738/) | 株式会社ドワンゴ（楽曲収益化サービス） | 受付中 |
 | 2027年1月31日 | [第7回 ISAC国際ポピュラー＆メディア 作曲コンクール](https://www.iseshimaart.com/popular-music-composition-competition) | 株式会社伊勢志摩アート・カンパニー | 受付中 |
 | 2027年3月31日 | [第24回日本歌曲コンクール〈作曲部門〉](https://nihonkakyokunaminokai.com/competition/260701-270831/) | 日本歌曲コンクール | 受付中 |
@@ -70,6 +71,7 @@
 | 2026年11月1日 | [秋の140字文学賞](https://www.combeez.com/corp/campaign016/) | 株式会社コンビーズ | 終了 |
 | 2026年11月4日 | [第4回ピッコマノベルズ大賞 番外編](https://koubo.jp/contest/376268) | カカオピッコマ | 終了 |
 | 2026年11月4日 | [2027年 ふくい新春文芸](https://koubo.jp/contest/374584) | 株式会社福井新聞社 | 終了 |
+| 2026年11月6日 | [秋田魁新報社「新年文芸」作品募集](https://koubo.jp/contest/394063) | 秋田魁新報社 | 本日締切 |
 | 2026年11月9日 | [第24回 講談社ラノベ文庫新人賞](https://lanove.kodansha.co.jp/award/rookie/) | 講談社 | 受付中 |
 | 2026年11月9日 | [第19回 W選考委員版「小説でもどうぞ」](https://koubo.jp/contest/384682) | 公募ガイド社 | 受付中 |
 | 2026年11月15日 | [第10回仙台短編文学賞](https://koubo.jp/contest/313481) | 仙台短編文学賞実行委員会（荒蝦夷・プレスアート・河北新報社） | 受付中 |
@@ -84,14 +86,23 @@
 | 2026年11月30日 | [第64回 高橋源一郎の「小説でもどうぞ」](https://koubo.jp/contest/384716) | 公募ガイド社 | 受付中 |
 | 2026年11月30日 | [第5回 ハナショウブ小説賞](https://opsolbook.com/hanashoubu/vol5/) | opsol book | 受付中 |
 | 2026年11月30日 | [pixiv Writing Challenge ~ Contract ~](https://www.pixiv.net/novel/contest/contractnovel) | pixiv株式会社 | 受付中 |
+| 2026年11月30日 | [ルネッサンス大賞](https://www.gentosha-book.com/pickup/runessancetaishou/) | 幻冬舎ルネッサンス | 受付中 |
+| 2026年11月30日 | [第2回 FRNノベル大賞](https://www.france.jp/free/198553) | 株式会社フランス書院 | 受付中 |
+| 2026年11月30日 | [ライトノベルコンテスト](https://www.gentosha-book.com/pickup/lightnobel/) | 幻冬舎ルネッサンス | 受付中 |
+| 2026年11月30日 | [第13回 ブックショートアワード](https://kobonabi.com/bookshortawards-13th-2026-nov/) | 株式会社パシフィックボイス | 受付中 |
+| 2026年12月1日 | [星海社FICTIONS新人賞（2026年12月）](https://sai-zen-sen.jp/publications/award/new_face_award.html) | 星海社 | 受付中 |
 | 2026年12月10日 | [第43回 太宰治賞](https://www.chikumashobo.co.jp/dazai/article/111350/) | 筑摩書房・三鷹市 | 受付中 |
+| 2026年12月13日 | [COMICポラリス異世界ファンタジー原作大賞](https://kirapo.jp/p/award/#polarisisekai) | フレックスコミックス株式会社 | 受付中 |
 | 2026年12月27日 | [第7回 たはら言の葉コンクール](https://compe.japandesign.ne.jp/tahara-kotonoha-2026/) | 田原市中央図書館 | 受付中 |
 | 2026年12月31日 | [第241回 集英社短編小説新人賞](https://orangebunko.shueisha.co.jp/newface-award) | 株式会社集英社 | 受付中 |
 | 2026年12月31日 | [第12回 空華文学賞](https://mutoukai.com/award.html) | 文藝同人無刀会 | 受付中 |
 | 2026年12月31日 | [はじめての小説文学賞](https://www.gentosha-book.com/pickup/novel_literature/) | 幻冬舎ルネッサンス | 受付中 |
 | 2026年12月31日 | [第23回 MF文庫J ライトノベル新人賞](https://promo.kadokawa.co.jp/mfbunkoj/rookie/award/) | KADOKAWA（MF文庫J編集部） | 受付中 |
 | 2026年12月31日 | [第14回 オーバーラップ文庫大賞 第2ターン](https://over-lap.co.jp/bunko/award/) | 株式会社オーバーラップ | 受付中 |
+| 2026年12月31日 | [第10回『零合』寄稿募集](https://0th.page/contribute/) | ラウンドゼロ株式会社（零合舎） | 受付中 |
+| 2027年1月10日 | [2027年 ノベル大賞](https://orangebunko.shueisha.co.jp/novel-award) | 集英社 | 受付中 |
 | 2027年1月12日 | [京王電鉄×Nola「えき・まち・未来」短編SF小説コンテスト](https://contest.nola-novel.com/keio-2026/) | 株式会社indent（Nola）／京王電鉄 | 受付中 |
+| 2027年1月12日 | [第18回 創元SF短編賞](https://www.tsogen.co.jp/award/sfss/18th/) | 東京創元社 | 受付中 |
 | 2027年1月29日 | [第4回有吉佐和子文学賞](https://www.city.wakayama.wakayama.jp/kurashi/bunka_sports/1001119/1055471.html) | 和歌山市 | 受付中 |
 | 2027年2月1日 | [カクヨムコンテスト12（長編・短編）](https://kakuyomu.jp/special/entry/kakuyomu_contest_12) | 株式会社KADOKAWA（カクヨム） | 募集開始前（12/1開始） |
 
@@ -106,8 +117,10 @@
 | 2026年11月15日 | [太秦歴史AIショートコンテスト2026](https://ai-creators.tech/media/event/uzumasa-jidai/) | 太秦上洛まつり | 受付中 |
 | 2026年11月16日 | [【AICU Award連携企画】#人工現実モラトリアム MessageVideo](https://note.com/aicu/n/na32bdfde53bb) | AICU Japan株式会社 | 受付中 |
 | 2026年11月30日 | [MangaNow Award 2026 supported by キャラフル](https://manganow.ai/charaful-award-2026) | 株式会社IMAKAI／キャラフル | 受付中 |
+| 2026年12月13日 | [AGRI VISION 2036](https://prtimes.jp/main/html/rd/p/000000227.000087046.html) | Metagri研究所（株式会社農情人） | 募集開始前（11/10開始） |
 | 2026年12月15日 | [ISEKAI ZERO AI原作コンテスト](https://contest.isekaizero.ai/) | 異世界フロンティア株式会社 | 受付中 |
 | 2026年12月15日 | [第5回 身延山大学「Kanjin」アートコンテスト](https://art.min.ac.jp/) | 学校法人 身延山学園 身延山大学 | 受付中 |
+| 2027年1月10日 | [Metagri Student Challenge 2026](https://student-challenge-2026.metagri-labo.com/) | Metagri研究所（株式会社農情人） | 受付中 |
 
 ## インディーゲーム
 
@@ -117,6 +130,7 @@
 | 2026年11月15日 | [TOKYO INDIE GAMES SUMMIT 2027 一般クリエイター出展枠](https://indiegamessummit.tokyo/news/) | TOKYO INDIE GAMES SUMMIT運営事務局（Phoenixx） | 受付中 |
 | 2026年11月24日 | [INDIE Live Expo 応援配信者募集](https://indie.live-expo.games/contact/support/) | INDIE Live Expo実行委員会 | 受付中 |
 | 2027年1月31日 | [BitSummit 2027 一般出展エントリー（BitSummit Official Indie Selection）](https://bitsummit.org/submission-faq-jpn/) | BitSummit実行委員会（一般社団法人日本インディペンデント・ゲーム協会） | 受付中 |
+| 2027年3月15日 | [SQUARE ENIX GAME CONTEST 2026](https://gc2026.jp.square-enix.com/) | 株式会社スクウェア・エニックス | 募集開始前（12/15開始） |
 
 ## 懸賞・キャンペーン・その他
 
@@ -135,4 +149,5 @@
 | 2026年11月30日 | [西日本新聞創刊150周年記念懸賞](https://koubo.jp/contest/399142) | 西日本新聞 | 受付中 |
 | 2026年12月24日 | [HUIONイラストコンテスト2026](https://koubo.jp/contest/396960) | ART street（株式会社MediBang） | 受付中 |
 | 2027年1月1日 | [第7回SDGs「誰ひとり取り残さない」小論文／イラスト／AIコンテスト](https://nogezaka-glocal.com/sdg7/) | 野毛坂グローカル | 受付中 |
+| 2027年1月5日 | [コンテンツ発掘プロジェクト「DOPAMINE」第3期](https://tsk-tv.com/dopamine/) | TSKさんいん中央テレビ | 受付中 |
 | 2027年1月8日 | [OITA DIGITAL CONTENTS AWARD 2026](https://oden.pref.oita.jp/topics/oita-digital-contents-award-2026/) | 大分県デジタルコンテンツ産業振興協議会 | 受付中 |
