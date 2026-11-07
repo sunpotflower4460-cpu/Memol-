@@ -1,17 +1,17 @@
 # 応募系まとめ（オーディション・公募・コンテスト・キャンペーン）
 
-これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **109件**、すべて公式ページ等へのリンク付き。
+これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **122件**、すべて公式ページ等へのリンク付き。
 
-状態は **2026年11月6日時点** のものです（受付中 89件／本日締切 4件／募集開始前 3件／継続中 1件／終了 12件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
+状態は **2026年11月7日時点** のものです（受付中 99件／本日締切 2件／募集開始前 4件／継続中 1件／終了 16件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
 
 ## ジャンル一覧
 
-- 音楽オーディション・出演者募集（29件）
+- 音楽オーディション・出演者募集（31件）
 - 作曲・楽曲コンペ（10件）
-- 小説・物語（39件）
+- 小説・物語（44件）
 - AIクリエイター（11件）
 - インディーゲーム（5件）
-- 懸賞・キャンペーン・その他（15件）
+- 懸賞・キャンペーン・その他（21件）
 
 ## 音楽オーディション・出演者募集
 
@@ -20,8 +20,9 @@
 | 2026年11月5日 | [「情歌王」～うまい歌より、心に響く歌～決定オーディション](https://www.audition-debut.com/audition/list/detail/id=15857) | 一般社団法人OSAKAあかるクラブ | 終了 |
 | 2026年11月5日 | [映画『塩あずきパルダリウム』エンディングテーマ ボーカリストオーディション](https://www.mache.tv/event/soltadzukivocal/detail/) | マシェバラ／映画『塩あずきパルダリウム』製作 | 終了 |
 | 2026年11月5日 | [lovepunk「このままじゃダメなんだよ！」女性出演者募集](https://audition.nerim.info/audition-202611/audition-2026101113.html) | lovepunk | 終了 |
-| 2026年11月7日 | [音なりオーディション2026](https://rt-audition2026.j-audition.net) | 音なりオーディション実行委員会 | 受付中 |
+| 2026年11月7日 | [音なりオーディション2026](https://rt-audition2026.j-audition.net) | 音なりオーディション実行委員会 | 本日締切 |
 | 2026年11月8日 | [Music Stories「Love and Harmony #2」女性キャストオーディション](https://www.audition-match.com/261016-2/) | 株式会社FMAカンパニー | 受付中 |
+| 2026年11月8日 | [アイナ・ジ・エンド コーラス&ダンサーオーディション](https://ainatheend.jp/news/detail.php?id=1137031) | アイナ・ジ・エンド（avex） | 受付中 |
 | 2026年11月10日 | [1分で簡単応募！Youtubeボーカルオーディション2026](https://music-audition.net/audition/12585/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
 | 2026年11月14日 | [Xector1 オリジナル楽曲プレゼントオーディション2026](https://music-audition.net/audition/19968/) | Xector1 Production | 受付中 |
 | 2026年11月15日 | [OTONOVA2027](https://auditionjapan.jp/detail/a9e0bdfa-7419-4a24-ba4e-f6b0ac23be80/) | 株式会社ベネフィット・ワン | 受付中 |
@@ -44,6 +45,7 @@
 | 2026年12月1日 | [顔出しNGボーカルオーディション](https://music-audition.net/audition/15249/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
 | 2026年12月31日 | [BLUE WORLD 男性ボーカル・ダンサー募集](https://music-audition.net/audition/20851/) | BLUE WORLD合同会社 | 受付中 |
 | 2026年12月31日 | [Singer Stage 第2期所属シンガー募集](https://music-audition.net/audition/20626/) | 株式会社RELEAD（Singer Stage） | 受付中 |
+| 2027年1月11日 | [ギターセンパイ 弾き語り挑戦！オーディション](https://music-audition.net/audition/20785/) | 島村楽器ギターセンパイ事務局 | 受付中 |
 | 2027年1月31日 | [Rhythm-Garden Project Vsingerオーディション](https://rhythm-garden.com/audition/) | Rhythm-Garden Project（リズプロ） | 受付中 |
 | 毎月末日 | [SMAマンスリーオーディション](https://www.sma-audition.com/monthly/) | 株式会社ソニー・ミュージックアーティスツ | 継続中 |
 
@@ -71,7 +73,7 @@
 | 2026年11月1日 | [秋の140字文学賞](https://www.combeez.com/corp/campaign016/) | 株式会社コンビーズ | 終了 |
 | 2026年11月4日 | [第4回ピッコマノベルズ大賞 番外編](https://koubo.jp/contest/376268) | カカオピッコマ | 終了 |
 | 2026年11月4日 | [2027年 ふくい新春文芸](https://koubo.jp/contest/374584) | 株式会社福井新聞社 | 終了 |
-| 2026年11月6日 | [秋田魁新報社「新年文芸」作品募集](https://koubo.jp/contest/394063) | 秋田魁新報社 | 本日締切 |
+| 2026年11月6日 | [秋田魁新報社「新年文芸」作品募集](https://koubo.jp/contest/394063) | 秋田魁新報社 | 終了 |
 | 2026年11月9日 | [第24回 講談社ラノベ文庫新人賞](https://lanove.kodansha.co.jp/award/rookie/) | 講談社 | 受付中 |
 | 2026年11月9日 | [第19回 W選考委員版「小説でもどうぞ」](https://koubo.jp/contest/384682) | 公募ガイド社 | 受付中 |
 | 2026年11月15日 | [第10回仙台短編文学賞](https://koubo.jp/contest/313481) | 仙台短編文学賞実行委員会（荒蝦夷・プレスアート・河北新報社） | 受付中 |
@@ -80,6 +82,7 @@
 | 2026年11月16日 | [超・妄想コンテスト 第277回「お塩・お砂糖」](https://estar.jp/official_contests/159905) | 株式会社エブリスタ | 受付中 |
 | 2026年11月18日 | [第1回 アース・スター文庫キャラクター小説大賞](https://kakuyomu.jp/contests/earthstar_2026/detail) | アース・スター（カクヨム） | 受付中 |
 | 2026年11月20日 | [第1回 角川春樹文庫大賞](http://www.kadokawaharuki.co.jp/newcomer/) | 角川春樹事務所 | 受付中 |
+| 2026年11月20日 | [りぼんまんがスクール＋](https://manga-meets.jp/contests/ribonmangaschool/74) | 株式会社集英社 | 受付中 |
 | 2026年11月30日 | [第19回 GA文庫大賞 後期](https://ga.sbcr.jp/novel/taisyo/19/) | SBクリエイティブ | 受付中 |
 | 2026年11月30日 | [第49回 小説推理新人賞](https://fr.futabasha.co.jp/special/suiri_award/) | 双葉社 | 受付中 |
 | 2026年11月30日 | [第21回 金魚屋新人賞](https://gold-fish-press.com/archives/105342) | 金魚屋プレス日本版 | 受付中 |
@@ -90,9 +93,12 @@
 | 2026年11月30日 | [第2回 FRNノベル大賞](https://www.france.jp/free/198553) | 株式会社フランス書院 | 受付中 |
 | 2026年11月30日 | [ライトノベルコンテスト](https://www.gentosha-book.com/pickup/lightnobel/) | 幻冬舎ルネッサンス | 受付中 |
 | 2026年11月30日 | [第13回 ブックショートアワード](https://kobonabi.com/bookshortawards-13th-2026-nov/) | 株式会社パシフィックボイス | 受付中 |
+| 2026年11月30日 | [第19回絵本大賞](https://www.alphapolis.co.jp/prize/requirements/661000230) | 株式会社アルファポリス | 受付中 |
 | 2026年12月1日 | [星海社FICTIONS新人賞（2026年12月）](https://sai-zen-sen.jp/publications/award/new_face_award.html) | 星海社 | 受付中 |
 | 2026年12月10日 | [第43回 太宰治賞](https://www.chikumashobo.co.jp/dazai/article/111350/) | 筑摩書房・三鷹市 | 受付中 |
 | 2026年12月13日 | [COMICポラリス異世界ファンタジー原作大賞](https://kirapo.jp/p/award/#polarisisekai) | フレックスコミックス株式会社 | 受付中 |
+| 2026年12月20日 | [うれしい！たのしい！お買い物！チェーンストアお買い物川柳](https://koubo.jp/contest/397496) | 日本チェーンストア協会 | 受付中 |
+| 2026年12月20日 | [公募ガイド せきしろの自由律俳句 第119回募集](http://koubo.jp/contest/393328) | 公募ガイド社 | 募集開始前（11/25開始） |
 | 2026年12月27日 | [第7回 たはら言の葉コンクール](https://compe.japandesign.ne.jp/tahara-kotonoha-2026/) | 田原市中央図書館 | 受付中 |
 | 2026年12月31日 | [第241回 集英社短編小説新人賞](https://orangebunko.shueisha.co.jp/newface-award) | 株式会社集英社 | 受付中 |
 | 2026年12月31日 | [第12回 空華文学賞](https://mutoukai.com/award.html) | 文藝同人無刀会 | 受付中 |
@@ -105,6 +111,7 @@
 | 2027年1月12日 | [第18回 創元SF短編賞](https://www.tsogen.co.jp/award/sfss/18th/) | 東京創元社 | 受付中 |
 | 2027年1月29日 | [第4回有吉佐和子文学賞](https://www.city.wakayama.wakayama.jp/kurashi/bunka_sports/1001119/1055471.html) | 和歌山市 | 受付中 |
 | 2027年2月1日 | [カクヨムコンテスト12（長編・短編）](https://kakuyomu.jp/special/entry/kakuyomu_contest_12) | 株式会社KADOKAWA（カクヨム） | 募集開始前（12/1開始） |
+| 2027年2月28日 | [第38回伊藤園お～いお茶新俳句大賞](https://itoen-shinhaiku.jp/about/) | 株式会社伊藤園 | 受付中 |
 
 ## AIクリエイター
 
@@ -113,7 +120,7 @@
 | 2026年11月3日 | [AI MUSIC VIDEO WAVE 2026](https://jacio.or.jp/aimvwave2026/) | 一般社団法人日本AI創造振興機構（JACIO）/ Japan AI Creative Contest（JACC） | 終了 |
 | 2026年11月3日 | [川越ハッピーハロウィン フォト＆AI画像 コンテスト2026](https://koubo.jp/contest/388807) | クレアモール川越新富町商店街振興組合 | 終了 |
 | 2026年11月4日 | [PixAI × zeta オリキャラコンテスト2026](https://pixai.art/ja/event/zeta) | PixAI | 終了 |
-| 2026年11月6日 | [さばえeスポーツDAY AIイラストコンテスト](https://compe.japandesign.ne.jp/sabae-ai-illustration-2026/) | さばえeスポーツDAY運営委員会 | 本日締切 |
+| 2026年11月6日 | [さばえeスポーツDAY AIイラストコンテスト](https://compe.japandesign.ne.jp/sabae-ai-illustration-2026/) | さばえeスポーツDAY運営委員会 | 終了 |
 | 2026年11月15日 | [太秦歴史AIショートコンテスト2026](https://ai-creators.tech/media/event/uzumasa-jidai/) | 太秦上洛まつり | 受付中 |
 | 2026年11月16日 | [【AICU Award連携企画】#人工現実モラトリアム MessageVideo](https://note.com/aicu/n/na32bdfde53bb) | AICU Japan株式会社 | 受付中 |
 | 2026年11月30日 | [MangaNow Award 2026 supported by キャラフル](https://manganow.ai/charaful-award-2026) | 株式会社IMAKAI／キャラフル | 受付中 |
@@ -126,7 +133,7 @@
 
 | 締切 | 案件名 | 主催 | 状態 |
 |---|---|---|---|
-| 2026年11月6日 | [Tokyo esports Game Development Contest 2027](https://tokyoesportsfesta.jp/) | 東京都／東京eスポーツフェスタ実行委員会 | 本日締切 |
+| 2026年11月6日 | [Tokyo esports Game Development Contest 2027](https://tokyoesportsfesta.jp/) | 東京都／東京eスポーツフェスタ実行委員会 | 終了 |
 | 2026年11月15日 | [TOKYO INDIE GAMES SUMMIT 2027 一般クリエイター出展枠](https://indiegamessummit.tokyo/news/) | TOKYO INDIE GAMES SUMMIT運営事務局（Phoenixx） | 受付中 |
 | 2026年11月24日 | [INDIE Live Expo 応援配信者募集](https://indie.live-expo.games/contact/support/) | INDIE Live Expo実行委員会 | 受付中 |
 | 2027年1月31日 | [BitSummit 2027 一般出展エントリー（BitSummit Official Indie Selection）](https://bitsummit.org/submission-faq-jpn/) | BitSummit実行委員会（一般社団法人日本インディペンデント・ゲーム協会） | 受付中 |
@@ -137,16 +144,22 @@
 | 締切 | 案件名 | 主催 | 状態 |
 |---|---|---|---|
 | 2026年11月1日 | [DJI POWER JAPAN プレゼントキャンペーン](https://koubo.jp/contest/395349) | DJI POWER JAPAN | 終了 |
-| 2026年11月6日 | [PlayStation Partner Awards 2026 ユーザー投票（INDEPENDENT CREATORS' AWARD）](https://www.playstation.com/ja-jp/local/events/playstation-awards/vote/) | ソニー・インタラクティブエンタテインメント | 本日締切 |
+| 2026年11月6日 | [PlayStation Partner Awards 2026 ユーザー投票（INDEPENDENT CREATORS' AWARD）](https://www.playstation.com/ja-jp/local/events/playstation-awards/vote/) | ソニー・インタラクティブエンタテインメント | 終了 |
+| 2026年11月7日 | [nippn創立130周年記念キャンペーン](https://nippn130th.jp/) | 株式会社ニップン | 本日締切 |
 | 2026年11月8日 | [アイシーまんがアトリエBOX PRO SNSキャンペーン](https://prtimes.jp/main/html/rd/p/000000123.000138307.html) | 株式会社G-Too（アイシー） | 受付中 |
 | 2026年11月8日 | [第1回 カヨトイズ塗り絵コンテスト](https://koubo.jp/contest/392470) | カヨトイズ（カヨ通商株式会社） | 受付中 |
+| 2026年11月10日 | [JAグループ茨城「新米ふくまる」クイズ＆プレゼントキャンペーン（120名）](https://giveowl.com/e/ja-ibaraki--fukumaru-quiz-present--2026/) | JAグループ茨城 | 受付中 |
 | 2026年11月20日 | [CREATIVE VILLAGE 秋のプレゼントキャンペーン'26](https://www.creativevillage.ne.jp/category/news/notices/180169/) | 株式会社クリーク・アンド・リバー社 | 受付中 |
 | 2026年11月23日 | [INDIE Live Expo Awards ユーザー投票決勝ラウンド PS5プレゼント](https://dengekionline.com/article/202610/92178) | INDIE Live Expo実行委員会 | 受付中 |
 | 2026年11月23日 | [DLsite創業祭2026 大江どすこい診断キャンペーン](https://www.dlsite.com/modpub/founding-festival2026/home/dosukoi-shindan/) | 株式会社エイシス（DLsite） | 受付中 |
 | 2026年11月25日 | [アズールプロミリア 11月26日リリース決定記念キャンペーン](https://www.shinobin.com/post/4656) | アズールプロミリア公式 | 受付中 |
+| 2026年11月25日 | [glampark 無料宿泊プレゼントキャンペーン](https://hashout.jp/sns/13907/) | glampark（サステナブルホールディングス） | 受付中 |
 | 2026年11月30日 | [ウィズジェネレーション サービス開始日決定記念キャンペーン](https://colopl.co.jp/news/pressrelease/2026103001.php) | 株式会社コロプラ | 受付中 |
 | 2026年11月30日 | [フェローズつながるクリエイターズ](https://www.value-press.com/pressrelease/383162) | 株式会社フェローズ | 受付中 |
 | 2026年11月30日 | [西日本新聞創刊150周年記念懸賞](https://koubo.jp/contest/399142) | 西日本新聞 | 受付中 |
+| 2026年11月30日 | [出水市「ツルの羽数当てクイズ」JAL旅行券10万円分](https://giveowl.com/e/izumi-city--tsuru-hasuu-quiz-jal-100k--2026/) | 鹿児島県出水市（出水ナビ） | 受付中 |
+| 2026年11月30日 | [JA特産品プレゼントキャンペーン（5,000円相当のJA特産品、第1期）](https://giveowl.com/e/ja-kyosai--ja-tokusanhin-present-campaign-round-1--2026/) | JA共済連（JAグループ） | 受付中 |
+| 2026年12月4日 | [新菱冷熱 さわやかキャンペーン 東京ディズニーリゾート パークチケット（ペア）プレゼント](https://giveowl.com/e/shinryo--disney-park-ticket-pair-present-campaign--2026/) | 新菱冷熱工業株式会社 | 受付中 |
 | 2026年12月24日 | [HUIONイラストコンテスト2026](https://koubo.jp/contest/396960) | ART street（株式会社MediBang） | 受付中 |
 | 2027年1月1日 | [第7回SDGs「誰ひとり取り残さない」小論文／イラスト／AIコンテスト](https://nogezaka-glocal.com/sdg7/) | 野毛坂グローカル | 受付中 |
 | 2027年1月5日 | [コンテンツ発掘プロジェクト「DOPAMINE」第3期](https://tsk-tv.com/dopamine/) | TSKさんいん中央テレビ | 受付中 |
