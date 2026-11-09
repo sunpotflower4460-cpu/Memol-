@@ -1,8 +1,8 @@
 # 応募系まとめ（オーディション・公募・コンテスト・キャンペーン）
 
-これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **157件**、すべて公式ページ等へのリンク付き。
+これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **153件**、すべて公式ページ等へのリンク付き。
 
-状態は **2026年11月9日時点** のものです（受付中 113件／本日締切 4件／募集開始前 15件／継続中 1件／終了 24件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
+状態は **2026年11月9日時点** のものです（受付中 109件／本日締切 4件／募集開始前 15件／継続中 1件／終了 24件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
 
 ## ジャンル一覧
 
@@ -11,7 +11,7 @@
 - 小説・物語（50件）
 - AIクリエイター（13件）
 - インディーゲーム（7件）
-- 懸賞・キャンペーン・その他（28件）
+- 懸賞・キャンペーン・その他（24件）
 - キャラクター（12件）
 
 ## 音楽オーディション・出演者募集
@@ -168,9 +168,7 @@
 | 2026年11月8日 | [auPAY X公式 運試しキャンペーン](https://www.shinobin.com/post/309) | au PAY公式（KDDI） | 終了 |
 | 2026年11月9日 | [#AnkerとTABIOで走ろう プレゼントキャンペーン](https://koubo.jp/contest/400639) | TABIO_SPORTS×Anker | 本日締切 |
 | 2026年11月9日 | [『プチプラネット』・Game*Spark プレゼントキャンペーン](https://koubo.jp/contest/400470) | Game*Spark | 本日締切 |
-| 2026年11月10日 | [JAグループ茨城「新米ふくまる」クイズ＆プレゼントキャンペーン（120名）](https://giveowl.com/e/ja-ibaraki--fukumaru-quiz-present--2026/) | JAグループ茨城 | 受付中 |
 | 2026年11月15日 | [ねとらぼ大型プレゼントキャンペーン](https://nlab.itmedia.co.jp/cont/articles/4044387/) | Webメディア「ねとらぼ」 | 受付中 |
-| 2026年11月16日 | [iceGUARD8 シリーズ 冬のプレゼントキャンペーン](https://www.y-yokohama.com/product/tire/camp2610_ig80) | 横浜ゴム株式会社 | 受付中 |
 | 2026年11月20日 | [CREATIVE VILLAGE 秋のプレゼントキャンペーン'26](https://www.creativevillage.ne.jp/category/news/notices/180169/) | 株式会社クリーク・アンド・リバー社 | 受付中 |
 | 2026年11月23日 | [INDIE Live Expo Awards ユーザー投票決勝ラウンド PS5プレゼント](https://dengekionline.com/article/202610/92178) | INDIE Live Expo実行委員会 | 受付中 |
 | 2026年11月23日 | [DLsite創業祭2026 大江どすこい診断キャンペーン](https://www.dlsite.com/modpub/founding-festival2026/home/dosukoi-shindan/) | 株式会社エイシス（DLsite） | 受付中 |
@@ -181,8 +179,6 @@
 | 2026年11月30日 | [フェローズつながるクリエイターズ](https://www.value-press.com/pressrelease/383162) | 株式会社フェローズ | 受付中 |
 | 2026年11月30日 | [西日本新聞創刊150周年記念懸賞](https://koubo.jp/contest/399142) | 西日本新聞 | 受付中 |
 | 2026年11月30日 | [出水市「ツルの羽数当てクイズ」JAL旅行券10万円分](https://giveowl.com/e/izumi-city--tsuru-hasuu-quiz-jal-100k--2026/) | 鹿児島県出水市（出水ナビ） | 受付中 |
-| 2026年11月30日 | [JA特産品プレゼントキャンペーン（5,000円相当のJA特産品、第1期）](https://giveowl.com/e/ja-kyosai--ja-tokusanhin-present-campaign-round-1--2026/) | JA共済連（JAグループ） | 受付中 |
-| 2026年12月4日 | [新菱冷熱 さわやかキャンペーン 東京ディズニーリゾート パークチケット（ペア）プレゼント](https://giveowl.com/e/shinryo--disney-park-ticket-pair-present-campaign--2026/) | 新菱冷熱工業株式会社 | 受付中 |
 | 2026年12月24日 | [HUIONイラストコンテスト2026](https://koubo.jp/contest/396960) | ART street（株式会社MediBang） | 受付中 |
 | 2026年12月25日 | [55周年GOGO！クイズに答えてハワイ旅行キャンペーン](https://www.nishikawa-store.com/pages/muatsu55-gogo) | 昭和西川株式会社 | 受付中 |
 | 2027年1月1日 | [第7回SDGs「誰ひとり取り残さない」小論文／イラスト／AIコンテスト](https://nogezaka-glocal.com/sdg7/) | 野毛坂グローカル | 受付中 |
