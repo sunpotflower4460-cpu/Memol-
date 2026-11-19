@@ -1,14 +1,14 @@
 # 応募系まとめ（オーディション・公募・コンテスト・キャンペーン）
 
-これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **273件**、すべて公式ページ等へのリンク付き。
+これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **275件**、すべて公式ページ等へのリンク付き。
 
-状態は **2026年11月18日時点** のものです（受付中 193件／本日締切 2件／募集開始前 15件／継続中 1件／終了 62件／その他 0件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
+状態は **2026年11月19日時点** のものです（受付中 193件／本日締切 2件／募集開始前 15件／継続中 1件／終了 64件／その他 0件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
 
 ## ジャンル一覧
 
 - 音楽オーディション・出演者募集（54件）
 - 作曲・楽曲コンペ（17件）
-- 小説・物語（86件）
+- 小説・物語（88件）
 - AIクリエイター（16件）
 - インディーゲーム（13件）
 - 懸賞・キャンペーン・その他（69件）
@@ -30,8 +30,8 @@
 | 2026年11月14日 | [Xector1 オリジナル楽曲プレゼントオーディション2026](https://music-audition.net/audition/19968/) | Xector1 Production | 終了 |
 | 2026年11月15日 | [OTONOVA2027](https://auditionjapan.jp/detail/a9e0bdfa-7419-4a24-ba4e-f6b0ac23be80/) | 株式会社ベネフィット・ワン | 終了 |
 | 2026年11月15日 | [ママを応援する音楽ユニット「ママの味方」女性歌手募集](https://music-audition.net/audition/20794/) | 合同会社ミンクリシステムサポート | 終了 |
-| 2026年11月18日 | [[ENSQUAR] 女性アイドル初期メンバー募集](https://music-audition.net/audition/20866/) | ENSQUARE | 本日締切 |
-| 2026年11月19日 | [鬱P楽曲提供オーディション](https://cp.awa.fm/news/UtsuP-2611) | AWA株式会社 | 受付中 |
+| 2026年11月18日 | [[ENSQUAR] 女性アイドル初期メンバー募集](https://music-audition.net/audition/20866/) | ENSQUARE | 終了 |
+| 2026年11月19日 | [鬱P楽曲提供オーディション](https://cp.awa.fm/news/UtsuP-2611) | AWA株式会社 | 本日締切 |
 | 2026年11月20日 | [ArtPoolRecordsボーカルオーディション2026](https://music-audition.net/audition/17782/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
 | 2026年11月20日 | [サムライロックオーケストラ 2027年新作品出演キャスト募集](https://music-audition.net/audition/20828/) | 株式会社サムライ・ロック・オーケストラ | 受付中 |
 | 2026年11月20日 | [シャイニングウィル NEWメンズアイドル オーディション](https://music-audition.net/audition/20167/) | シャイニングウィル | 受付中 |
@@ -112,8 +112,8 @@
 | 2026年11月15日 | [第3回 静岡絵本エピソードアワード](https://ehon-shizuoka.jp/) | 静岡絵本エピソードアワード実行委員会 | 終了 |
 | 2026年11月16日 | [第11回 アース・スターノベル大賞](https://earthstar-novel.com/esn-award/aw-11/) | アース・スター（小説家になろう） | 終了 |
 | 2026年11月16日 | [超・妄想コンテスト 第277回「お塩・お砂糖」](https://estar.jp/official_contests/159905) | 株式会社エブリスタ | 終了 |
-| 2026年11月18日 | [第1回 アース・スター文庫キャラクター小説大賞](https://kakuyomu.jp/contests/earthstar_2026/detail) | アース・スター（カクヨム） | 本日締切 |
-| 2026年11月19日 | [秋の文芸展2026](https://www.illusions.app/ja/articles/narou-aki-no-bungeiten-2026-tabi) | 株式会社ヒナプロジェクト（小説家になろう） | 受付中 |
+| 2026年11月18日 | [第1回 アース・スター文庫キャラクター小説大賞](https://kakuyomu.jp/contests/earthstar_2026/detail) | アース・スター（カクヨム） | 終了 |
+| 2026年11月19日 | [秋の文芸展2026](https://www.illusions.app/ja/articles/narou-aki-no-bungeiten-2026-tabi) | 株式会社ヒナプロジェクト（小説家になろう） | 本日締切 |
 | 2026年11月20日 | [第1回 角川春樹文庫大賞](http://www.kadokawaharuki.co.jp/newcomer/) | 角川春樹事務所 | 受付中 |
 | 2026年11月20日 | [りぼんまんがスクール＋](https://manga-meets.jp/contests/ribonmangaschool/74) | 株式会社集英社 | 受付中 |
 | 2026年11月30日 | [第19回 GA文庫大賞 後期](https://ga.sbcr.jp/novel/taisyo/19/) | SBクリエイティブ | 受付中 |
@@ -162,6 +162,7 @@
 | 2027年1月13日 | [第15回ネット小説大賞](https://www.cg-con.com/novel/vol15/) | クラウドゲート株式会社 | 受付中 |
 | 2027年1月17日 | [第2回「ハッピーえほん大賞」](https://www.mcdonalds.co.jp/family/happyset/book/story-book-contest/) | 日本マクドナルド株式会社／株式会社小学館 | 受付中 |
 | 2027年1月19日 | [ドラマチックプロポーズコンテスト](https://koubo.jp/contest/392741) | スターツ出版株式会社（Berry's Cafe／ベリーズ文庫） | 受付中 |
+| 2027年1月27日 | [第78回「飛ぶ教室」作品募集](https://kobonabi.com/mitsumuratosho-tobukyoshitsu-78th-2026-2027/) | 光村図書出版株式会社 | 受付中 |
 | 2027年1月29日 | [第4回有吉佐和子文学賞](https://www.city.wakayama.wakayama.jp/kurashi/bunka_sports/1001119/1055471.html) | 和歌山市 | 受付中 |
 | 2027年1月31日 | [第73回 江戸川乱歩賞](https://tree-novel.com/works/episode/d12d3d33d5a7c475ae5c8a59a8d16771.html) | 日本推理作家協会（講談社） | 受付中 |
 | 2027年1月31日 | [第4回 ダッシュエックス文庫 オトナの小説大賞](https://koubo.jp/contest/399961) | 集英社ダッシュエックス文庫編集部 | 受付中 |
@@ -180,6 +181,7 @@
 | 2027年2月28日 | [第40回 ファンタジア大賞（後期）](https://www.fantasiataisho.com/guideline/) | KADOKAWA（富士見ファンタジア文庫） | 受付中 |
 | 2027年2月28日 | [第7回 HJ小説大賞 後期（ノベルアップ＋部門）](https://novelup.plus/) | 株式会社ホビージャパン | 受付中 |
 | 2027年3月31日 | [第10回 人間座「田畑実 戯曲賞」](https://koubo.jp/contest/405472) | 劇団人間座 | 受付中 |
+| 2027年3月31日 | [第40回 小説すばる新人賞](http://syousetsu-subaru.shueisha.co.jp/sinjinsyo/) | 株式会社集英社 | 受付中 |
 | 2027年4月10日 | [第34回電撃小説大賞](https://www.kadokawa.co.jp/award/) | 株式会社KADOKAWA | 受付中 |
 | 2027年4月30日 | [ミステリーラノベコンテスト](https://lp.bookbase.jp/bosyu/vMTElzd7) | BookBase／ダンガン文庫 | 受付中 |
 | 2027年5月7日 | [第13回 角川文庫キャラクター小説大賞](https://kadobun.jp/awards/character-novels/) | 株式会社KADOKAWA（角川文庫） | 受付中 |
