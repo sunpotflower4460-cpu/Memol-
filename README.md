@@ -1,17 +1,17 @@
 # 応募系まとめ（オーディション・公募・コンテスト・キャンペーン）
 
-これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **306件**、すべて公式ページ等へのリンク付き。
+これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **313件**、すべて公式ページ等へのリンク付き。
 
-状態は **2026年11月25日時点** のものです（受付中 196件／本日締切 4件／募集開始前 11件／継続中 1件／終了 94件／その他 0件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
+状態は **2026年11月26日時点** のものです（受付中 202件／本日締切 4件／募集開始前 12件／継続中 1件／終了 94件／その他 0件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
 
 ## ジャンル一覧
 
-- 音楽オーディション・出演者募集（58件）
-- 作曲・楽曲コンペ（19件）
-- 小説・物語（94件）
+- 音楽オーディション・出演者募集（61件）
+- 作曲・楽曲コンペ（20件）
+- 小説・物語（96件）
 - AIクリエイター（17件）
 - インディーゲーム（13件）
-- 懸賞・キャンペーン・その他（76件）
+- 懸賞・キャンペーン・その他（77件）
 - キャラクター（29件）
 
 
@@ -41,6 +41,7 @@
 | 2026年11月24日 | [LUE｜LUE 初期メンバーオーディション](https://kyampus.me/AU-2026-11-02-351) | BLINK PRODUCTION | 終了 |
 | 2026年11月28日 | [せくたーわん 新人VSinger所属オーディション](https://www.xector1.com/vtuberaudition) | Xector1 Production | 受付中 |
 | 2026年11月29日 | [TOKYO MX2『きらめき放送局』EDテーマオーディション](https://music-audition.net/audition/20870/) | きらめき放送局（Mudia投票審査） | 受付中 |
+| 2026年11月30日 | [Battle de egg 2027](https://www.city.kobe.lg.jp/a36708/698107622889.html) | 神戸市／Battle de egg実行委員会 | 受付中 |
 | 2026年11月30日 | [DJHAKK カラオケ好き歌手オーディション](https://music-audition.net/audition/20830/) | DJHAKK | 受付中 |
 | 2026年11月30日 | [STPR BOYS AUDITION](https://boys.stpr.com/) | 株式会社STPR | 受付中 |
 | 2026年11月30日 | [キャストパワーオーディション](https://music-audition.net/audition/castpower/) | キャストパワーネクスト | 受付中 |
@@ -58,6 +59,7 @@
 | 2026年12月1日 | [Xector1 新世代シンガーデビューオーディション2026](https://music-audition.net/audition/18390/) | Xector1 Production | 受付中 |
 | 2026年12月1日 | [顔出しNGボーカルオーディション](https://music-audition.net/audition/15249/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
 | 2026年12月6日 | [つんく♂完全プロデュース 「新グループ！」オーディション](https://music-audition.net/audition/20908/) | TNX株式会社 | 受付中 |
+| 2026年12月8日 | [THINKR AUDITION 2026](https://panora.tokyo/archives/163506) | 株式会社THINKR | 受付中 |
 | 2026年12月10日 | [1分で簡単応募！Youtubeボーカルオーディション2026](https://music-audition.net/audition/12585/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
 | 2026年12月10日 | [DJHAKK 想いを歌にするボーカルオーディション](https://music-audition.net/audition/20906/) | DJHAKK | 受付中 |
 | 2026年12月11日 | [VTuberオリジナル曲獲得オーディション「おりそんV8」](https://prtimes.jp/main/html/rd/p/000001446.000056982.html) | 株式会社ドワンゴ（ニコニコ） | 受付中 |
@@ -70,6 +72,7 @@
 | 2026年12月31日 | [REBOOT 新人声優＆アイドルオーディション](https://music-audition.net/audition/17038/) | REBOOT（声優・アイドル事務所） | 受付中 |
 | 2026年12月31日 | [A.N.G.E.L 初期メンバー募集オーディション](https://music-audition.net/audition/20934/) | ALLYOUNEEDS | 受付中 |
 | 2026年12月31日 | [イザワオフィス 2027年度 所属オーディション](https://music-audition.net/audition/20950/) | イザワオフィス | 受付中 |
+| 2027年1月10日 | [Battle to LuckyFes'27](https://www.tunecore.co.jp/wanted/battle-to-luckyfes27) | 株式会社LuckyFM茨城放送／株式会社BARKS | 受付中 |
 | 2027年1月11日 | [ギターセンパイ 弾き語り挑戦！オーディション](https://music-audition.net/audition/20785/) | 島村楽器ギターセンパイ事務局 | 受付中 |
 | 2027年1月31日 | [Rhythm-Garden Project Vsingerオーディション](https://rhythm-garden.com/audition/) | Rhythm-Garden Project（リズプロ） | 受付中 |
 | 毎月末日 | [SMAマンスリーオーディション](https://www.sma-audition.com/monthly/) | 株式会社ソニー・ミュージックアーティスツ | 継続中 |
@@ -94,6 +97,7 @@
 | 2026年12月15日 | [Pegasus: The Orchestra 2nd International Call for Works](https://secure.givelively.org/event/pegasus-the-orchestra-inc/pegasus-the-orchestra-2nd-international-call-for-works) | Pegasus: The Orchestra（米国・ニューヨーク） | 受付中 |
 | 2026年12月31日 | [ギャラクシティ大感謝祭 みらい創造フェス 映像に音楽をつけよう「作曲コンテスト」](https://koubo.jp/contest/399110) | ギャラクシティ指定管理者みらい創造堂 | 受付中 |
 | 2026年12月31日 | [楽曲オーディション「SongAward feat. 知声」](https://koubo.jp/contest/401987) | 株式会社ドワンゴ | 受付中 |
+| 2027年1月25日 | [ノーベル平和賞受賞記念「平和を願う歌」（仮題）作曲募集](https://www.ongakucenter.co.jp/hpgen/HPB/categories/15756.html) | 日本原水爆被害者団体協議会（日本被団協） | 受付中 |
 | 2027年1月31日 | [虹コンテスト Powered by 楽曲収益化サービス](https://www.oricon.co.jp/pressrelease/3061738/) | 株式会社ドワンゴ（楽曲収益化サービス） | 受付中 |
 | 2027年1月31日 | [第7回 ISAC国際ポピュラー＆メディア 作曲コンクール](https://www.iseshimaart.com/popular-music-composition-competition) | 株式会社伊勢志摩アート・カンパニー | 受付中 |
 | 2027年2月1日 | [鳥取大学大学院連合農学研究科 テーマソング募集](https://rendai.muses.tottori-u.ac.jp/lp/call_rendai-music.html) | 鳥取大学大学院連合農学研究科（UGSAS-TU / RENDAI） | 受付中 |
@@ -170,6 +174,7 @@
 | 2027年1月19日 | [ドラマチックプロポーズコンテスト](https://koubo.jp/contest/392741) | スターツ出版株式会社（Berry's Cafe／ベリーズ文庫） | 受付中 |
 | 2027年1月27日 | [第78回「飛ぶ教室」作品募集](https://kobonabi.com/mitsumuratosho-tobukyoshitsu-78th-2026-2027/) | 光村図書出版株式会社 | 受付中 |
 | 2027年1月29日 | [第4回有吉佐和子文学賞](https://www.city.wakayama.wakayama.jp/kurashi/bunka_sports/1001119/1055471.html) | 和歌山市 | 受付中 |
+| 2027年1月31日 | [「変」な短編小説コンテスト](https://koubo.jp/contest/410059) | 株式会社ホビージャパン／ノベルアップ＋ | 募集開始前 |
 | 2027年1月31日 | [第73回 江戸川乱歩賞](https://tree-novel.com/works/episode/d12d3d33d5a7c475ae5c8a59a8d16771.html) | 日本推理作家協会（講談社） | 受付中 |
 | 2027年1月31日 | [第4回 ダッシュエックス文庫 オトナの小説大賞](https://koubo.jp/contest/399961) | 集英社ダッシュエックス文庫編集部 | 受付中 |
 | 2027年1月31日 | [まんがセゾン原作大賞](https://story.nola-novel.com/events/manga-saison-2026) | 株式会社クレディセゾン／株式会社indent（Nola） | 受付中 |
@@ -179,6 +184,7 @@
 | 2027年2月1日 | [カクヨムコンテスト12（長編・短編）](https://kakuyomu.jp/special/entry/kakuyomu_contest_12) | 株式会社KADOKAWA（カクヨム） | 募集開始前（12/1開始） |
 | 2027年2月2日 | [エブリスタ コミック原作コンテスト](https://estar.jp/gensaku_contest) | 株式会社エブリスタ | 受付中 |
 | 2027年2月11日 | [第19回 日本新薬こども文学賞](https://koubo.jp/contest/402341) | 日本新薬株式会社 | 受付中 |
+| 2027年2月15日 | [ノベマ！ ルヴェリア異世界BL小説大賞](https://koubo.jp/contest/406099) | スターツ出版株式会社 | 受付中 |
 | 2027年2月15日 | [第6回 警察小説新人賞](https://shosetsu-maru.com/pr/keisatsu-shosetsu/index.html) | 小学館 | 受付中 |
 | 2027年2月16日 | [第28回 ピンポイント絵本コンペ](https://compe.japandesign.ne.jp/pinpointgallery-ehon-2027/) | ピンポイントギャラリー | 受付中 |
 | 2027年2月28日 | [KADOKAWA WORLD MANGA CONTEST（第2回）](https://kadokawaworldmanga.com/contest/) | 株式会社KADOKAWA | 受付中 |
@@ -302,6 +308,7 @@
 | 2026年11月30日 | [いい風呂の日キャンペーン](https://koubo.jp/contest/399301) | 日本浴用剤工業会 | 受付中 |
 | 2026年11月30日 | [【SNSキャンペーン】Kali Audioスピーカー or AKGヘッドホンが抽選で当たる！](https://www.hibino.com/blog/news/snscp-202611/) | Hibino.com（ヒビノ株式会社） | 受付中 |
 | 2026年11月30日 | [日本の国立公園フォトコンテスト2026](https://kensho-techo.hibibako.com/?page=3) | 環境省 | 受付中 |
+| 2026年12月1日 | [TOKYO FM「Hand in Hand」福島の日本酒「央 袋垂れ 大吟醸」プレゼント](https://www.ken-kaku.com/cgi-bin/present/present.cgi?id=12149509) | 株式会社エフエム東京（TOKYO FM） | 受付中 |
 | 2026年12月4日 | [絵本ナビ 大感謝祭（第1弾）](https://www.ehonnavi.net/pages/kanshasai_2026/#658) | 株式会社絵本ナビ | 受付中 |
 | 2026年12月4日 | [ゼンハイザー HD 480 PRO／IE 100 PRO Wireless プレゼント](https://kensho-techo.hibibako.com/c/sennheiser-hd480pro-ie100pro-202612) | ゼンハイザー（Sennheiser Japan） | 受付中 |
 | 2026年12月7日 | [ミライハウス×カモンハウス 創業祭キャンペーン](https://mirai.housefoods.jp/) | ハウス食品 | 受付中 |
@@ -335,7 +342,7 @@
 | 2027年1月24日 | [東京ハンドメイドマルシェ2027春 出展申込](https://tokyo.handmade-marche.jp/) | ハンドメイドマルシェ株式会社 | 受付中 |
 | 2027年1月27日 | [スキスキクラフトフェス 出展者募集](https://sukicra.dcm.style) | DCM株式会社 | 募集開始前（12/14開始予定） |
 | 2027年2月28日 | [書店員が選ぶ絵本新人賞2027](https://ehon.yomiuri.co.jp/) | 株式会社読売新聞東京本社、株式会社中央公論新社 | 募集開始前（1/1開始） |
-| 2027年3月21日 | [HandMade In Japan Fes 春2027 一般出展受付](https://top.hmj-fes.jp/guide) | Creema | 募集開始前（キャンセル待ち11/25開始予定） |
+| 2027年3月21日 | [HandMade In Japan Fes 春2027 一般出展受付](https://top.hmj-fes.jp/guide) | Creema | 募集開始前 |
 | 2027年5月 | [講談社絵本新人賞（第48回）](https://cocreco.kodansha.co.jp/ehon/news/award/newcomer/xpw83) | 講談社 | 募集開始前 |
 | 2027年5月23日 | [COMITIA160 サークル参加申込](https://www.comitia.co.jp/) | COMITIA実行委員会 | 募集開始前 |
 | 2027年6月25日 | [ライセンシングジャパン／クリエイターEXPO（コンテンツ東京2027）出展](https://www.content-tokyo.jp/hub/ja-jp/exhibit/cr.html) | RX Japan | 受付中 |
