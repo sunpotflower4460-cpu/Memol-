@@ -1,17 +1,17 @@
 # 応募系まとめ（オーディション・公募・コンテスト・キャンペーン）
 
-これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **313件**、すべて公式ページ等へのリンク付き。
+これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **318件**、すべて公式ページ等へのリンク付き。
 
-状態は **2026年11月26日時点** のものです（受付中 202件／本日締切 4件／募集開始前 12件／継続中 1件／終了 94件／その他 0件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
+状態は **2026年11月27日時点** のものです（受付中 207件／本日締切 0件／募集開始前 12件／継続中 1件／終了 98件／その他 0件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
 
 ## ジャンル一覧
 
-- 音楽オーディション・出演者募集（61件）
+- 音楽オーディション・出演者募集（63件）
 - 作曲・楽曲コンペ（20件）
 - 小説・物語（96件）
 - AIクリエイター（17件）
 - インディーゲーム（13件）
-- 懸賞・キャンペーン・その他（77件）
+- 懸賞・キャンペーン・その他（80件）
 - キャラクター（29件）
 
 
@@ -58,7 +58,9 @@
 | 2026年11月30日 | [「おやつタウン」エンターテイナーオーディション](https://audition.nerim.info/audition-202611/audition-2026110290.html) | 株式会社おやつタウン | 受付中 |
 | 2026年12月1日 | [Xector1 新世代シンガーデビューオーディション2026](https://music-audition.net/audition/18390/) | Xector1 Production | 受付中 |
 | 2026年12月1日 | [顔出しNGボーカルオーディション](https://music-audition.net/audition/15249/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
+| 2026年12月3日 | [劇団HOUJU 2月公演出演者募集オーディション](https://kyampus.me/AU-2026-11-11-385) | 劇団HOUJU | 受付中 |
 | 2026年12月6日 | [つんく♂完全プロデュース 「新グループ！」オーディション](https://music-audition.net/audition/20908/) | TNX株式会社 | 受付中 |
+| 2026年12月7日 | [「exPoP!!!!! vol.190」ステージ出演オーディション](https://www.tunecore.co.jp/amp/news/720) | TuneCore Japan／NiEW | 受付中 |
 | 2026年12月8日 | [THINKR AUDITION 2026](https://panora.tokyo/archives/163506) | 株式会社THINKR | 受付中 |
 | 2026年12月10日 | [1分で簡単応募！Youtubeボーカルオーディション2026](https://music-audition.net/audition/12585/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
 | 2026年12月10日 | [DJHAKK 想いを歌にするボーカルオーディション](https://music-audition.net/audition/20906/) | DJHAKK | 受付中 |
@@ -286,10 +288,10 @@
 | 2026年11月23日 | [SUBARU BOXER 60th記念 BOXER搭載車1台プレゼントキャンペーン](https://www.subaru.jp/campaign/2026secondhalf-present/#799) | 株式会社SUBARU | 終了 |
 | 2026年11月23日 | [焼酎SQUARE 焼酎甲類1年分が当たる！キャンペーン](https://www.shochu.or.jp/2026campaign/index.html) | 日本蒸留酒酒造組合 | 終了 |
 | 2026年11月23日 | [greeniche 北欧の名作家具が当たるキャンペーン](https://greeniche.jp/pages/heya-shindan-campaign) | グリニッチ | 終了 |
-| 2026年11月25日 | [楽天証券ストア渋谷Open記念 フォロー＆リポストキャンペーン](https://www.shinobin.com/post/4903) | 楽天証券株式会社 | 本日締切 |
-| 2026年11月25日 | [アズールプロミリア 11月26日リリース決定記念キャンペーン](https://www.shinobin.com/post/4656) | アズールプロミリア公式 | 本日締切 |
-| 2026年11月25日 | [glampark 無料宿泊プレゼントキャンペーン](https://hashout.jp/sns/13907/) | glampark（サステナブルホールディングス） | 本日締切 |
-| 2026年11月25日 | [でん六 11月のプレゼント](https://www.denroku.co.jp/present_info/) | でん六 | 本日締切 |
+| 2026年11月25日 | [楽天証券ストア渋谷Open記念 フォロー＆リポストキャンペーン](https://www.shinobin.com/post/4903) | 楽天証券株式会社 | 終了 |
+| 2026年11月25日 | [アズールプロミリア 11月26日リリース決定記念キャンペーン](https://www.shinobin.com/post/4656) | アズールプロミリア公式 | 終了 |
+| 2026年11月25日 | [glampark 無料宿泊プレゼントキャンペーン](https://hashout.jp/sns/13907/) | glampark（サステナブルホールディングス） | 終了 |
+| 2026年11月25日 | [でん六 11月のプレゼント](https://www.denroku.co.jp/present_info/) | でん六 | 終了 |
 | 2026年11月30日 | [冬支度始めましょキャンペーン](https://koubo.jp/contest/405440) | 日本直販株式会社 | 受付中 |
 | 2026年11月30日 | [フジッコ大感謝祭 フォロー＆リポストキャンペーン 第2回](https://www.shinobin.com/post/1488) | フジッコ株式会社 | 受付中 |
 | 2026年11月30日 | [ソウ・エクスペリエンス 有隣堂藤沢店ポップアップ記念 Xキャンペーン](https://www.shinobin.com/post/4957) | ソウ・エクスペリエンス株式会社 | 受付中 |
@@ -315,9 +317,12 @@
 | 2026年12月10日 | [さかにゅー 読者プレゼント（12月）](https://sakai-news.jp/saka-ambasader-20240925-pr/20261106_a054_padopure) | さかにゅー | 受付中 |
 | 2026年12月14日 | [エクス新製品リリース記念キャンペーン](https://www.seisankanri.net) | 株式会社エクス | 受付中 |
 | 2026年12月20日 | [2026年「でんき保安」初冬号のクイズ](https://koubo.jp/contest/399105) | 一般財団法人北海道電気保安協会 | 受付中 |
+| 2026年12月21日 | [第21回 四季のあが町 写真コンテスト](https://koubo.jp/contest/410686) | 阿賀町、阿賀町教育委員会 | 受付中 |
 | 2026年12月22日 | [くらしの安心＆ウェルビーイングキャンペーン](https://koubo.jp/contest/400597) | 住友生命保険相互会社 | 受付中 |
 | 2026年12月24日 | [HUIONイラストコンテスト2026](https://koubo.jp/contest/396960) | ART street（株式会社MediBang） | 受付中 |
 | 2026年12月25日 | [55周年GOGO！クイズに答えてハワイ旅行キャンペーン](https://www.nishikawa-store.com/pages/muatsu55-gogo) | 昭和西川株式会社 | 受付中 |
+| 2026年12月25日 | [Nagoya Screen JAM 名古屋未来映像コンテスト2026](https://koubo.jp/contest/409630) | 名古屋市文化振興事業団／名古屋未来映像コンテスト製作委員会 | 受付中 |
+| 2026年12月25日 | [西新宿クリスマスフォトコンテスト（FUN MORE TIME SHINJUKU 2026）](https://tokyocameraclub.com/funmoretimeshinjuku/contest2026/) | FUN MORE TIME SHINJUKU実行委員会／東京カメラ部 | 受付中 |
 | 2026年12月31日 | [ツクルヒトタチ博 in 大阪市中央公会堂2027 メインビジュアル募集](https://koubo.jp/contest/394418) | EGGNWORKS | 受付中 |
 | 2027年1月1日 | [第7回SDGs「誰ひとり取り残さない」小論文／イラスト／AIコンテスト](https://nogezaka-glocal.com/sdg7/) | 野毛坂グローカル | 受付中 |
 | 2027年1月5日 | [コンテンツ発掘プロジェクト「DOPAMINE」第3期](https://tsk-tv.com/dopamine/) | TSKさんいん中央テレビ | 受付中 |
