@@ -1,17 +1,17 @@
 # 応募系まとめ（オーディション・公募・コンテスト・キャンペーン）
 
-これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **318件**、すべて公式ページ等へのリンク付き。
+これまでに紹介した応募系の案件を、ジャンル別・締切順にまとめた一覧です。全 **324件**、すべて公式ページ等へのリンク付き。
 
-状態は **2026年11月27日時点** のものです（受付中 207件／本日締切 0件／募集開始前 12件／継続中 1件／終了 98件／その他 0件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
+状態は **2026年11月28日時点** のものです（受付中 211件／本日締切 1件／募集開始前 13件／継続中 1件／終了 98件／その他 0件）。締切や応募条件は変わることがあるので、応募前にリンク先で最新情報をご確認ください。
 
 ## ジャンル一覧
 
-- 音楽オーディション・出演者募集（63件）
-- 作曲・楽曲コンペ（20件）
-- 小説・物語（96件）
-- AIクリエイター（17件）
+- 音楽オーディション・出演者募集（64件）
+- 作曲・楽曲コンペ（21件）
+- 小説・物語（97件）
+- AIクリエイター（18件）
 - インディーゲーム（13件）
-- 懸賞・キャンペーン・その他（80件）
+- 懸賞・キャンペーン・その他（82件）
 - キャラクター（29件）
 
 
@@ -39,7 +39,7 @@
 | 2026年11月21日 | [Xector1 顔出しなしOKアーティストオーディション2026](https://www.xector1.com/videooffaudition) | Xector1 Production | 終了 |
 | 2026年11月23日 | [『D4DJ』新ユニットメンバーオーディション](https://mixch.tv/p/9xo6czll) | 株式会社スレイプニル／BADKNee | 終了 |
 | 2026年11月24日 | [LUE｜LUE 初期メンバーオーディション](https://kyampus.me/AU-2026-11-02-351) | BLINK PRODUCTION | 終了 |
-| 2026年11月28日 | [せくたーわん 新人VSinger所属オーディション](https://www.xector1.com/vtuberaudition) | Xector1 Production | 受付中 |
+| 2026年11月28日 | [せくたーわん 新人VSinger所属オーディション](https://www.xector1.com/vtuberaudition) | Xector1 Production | 本日締切 |
 | 2026年11月29日 | [TOKYO MX2『きらめき放送局』EDテーマオーディション](https://music-audition.net/audition/20870/) | きらめき放送局（Mudia投票審査） | 受付中 |
 | 2026年11月30日 | [Battle de egg 2027](https://www.city.kobe.lg.jp/a36708/698107622889.html) | 神戸市／Battle de egg実行委員会 | 受付中 |
 | 2026年11月30日 | [DJHAKK カラオケ好き歌手オーディション](https://music-audition.net/audition/20830/) | DJHAKK | 受付中 |
@@ -65,6 +65,7 @@
 | 2026年12月10日 | [1分で簡単応募！Youtubeボーカルオーディション2026](https://music-audition.net/audition/12585/) | ArtPoolRecords（バミリ株式会社） | 受付中 |
 | 2026年12月10日 | [DJHAKK 想いを歌にするボーカルオーディション](https://music-audition.net/audition/20906/) | DJHAKK | 受付中 |
 | 2026年12月11日 | [VTuberオリジナル曲獲得オーディション「おりそんV8」](https://prtimes.jp/main/html/rd/p/000001446.000056982.html) | 株式会社ドワンゴ（ニコニコ） | 受付中 |
+| 2026年12月11日 | [SONORRA TENNOZ PLAYERS SHOWCASE](https://compe.japandesign.ne.jp/terrada-sonorra-tennoz-ps-2026/) | 寺田倉庫株式会社 | 受付中 |
 | 2026年12月14日 | [Xector1 オリジナル楽曲デビューオーディション2026](https://music-audition.net/audition/20941/) | Xector1 Production | 受付中 |
 | 2026年12月23日 | [VAZ presents『次世代スター発掘オーディション』](https://vazfan.jp/creator-a01/) | VAZFAN（株式会社エンターファンズ・株式会社VAZの合弁事務所） | 受付中 |
 | 2026年12月25日 | [TVアニメアニソンデビュー！（地上波TVアニメ「都市伝説ハンター」主題歌）](https://kyampus.me/AU-2026-11-13-394) | 株式会社アイエヌジー | 受付中 |
@@ -84,6 +85,7 @@
 | 随時募集 | [avion records オーディション](https://music-audition.net/audition/8368/) | avion records | 受付中 |
 ## 作曲・楽曲コンペ
 
+| 2026年12月1日 | [IHS国際ホルン作曲コンクール2026](https://hornsociety.org/programs/awards-and-competitions/composition-contest) | International Horn Society（国際ホルン協会） | 受付中 |
 | 締切 | 案件名 | 主催 | 状態 |
 |---|---|---|---|
 | 2026年11月15日 | [Ensemble Contemporary α Tokyo「Call for works 2027」](https://www.contemporary-alpha.com/en/callforworks2027) | Ensemble Contemporary α（アンサンブル・コンテンポラリー・アルファ） | 終了 |
@@ -109,6 +111,7 @@
 
 ## 小説・物語
 
+| 2026年12月31日 | [第10回キャラ文芸大賞](https://www.alphapolis.co.jp/prize/requirements/447000231) | 株式会社アルファポリス | 募集開始前（12/1開始） |
 | 締切 | 案件名 | 主催 | 状態 |
 |---|---|---|---|
 | 2026年10月31日 | [第70回 群像新人文学賞](https://gunzou.kodansha.co.jp/awards) | 講談社 | 終了 |
@@ -209,6 +212,7 @@
 | 2027年5月31日 | [第3回永井荷風新人賞](https://koubo.jp/contest/402701) | 永井荷風文学賞実行委員会（市川市・三田文学会） | 受付中 |
 ## AIクリエイター
 
+| 2027年1月18日 | [YouCam Muse AI MVコンテスト](https://koubo.jp/article/142102) | パーフェクト株式会社 | 受付中 |
 | 締切 | 案件名 | 主催 | 状態 |
 |---|---|---|---|
 | 2026年11月3日 | [AI MUSIC VIDEO WAVE 2026](https://jacio.or.jp/aimvwave2026/) | 一般社団法人日本AI創造振興機構（JACIO）/ Japan AI Creative Contest（JACC） | 終了 |
@@ -249,6 +253,8 @@
 
 ## 懸賞・キャンペーン・その他
 
+| 2026年12月13日 | [純金ボール プレゼントキャンペーン](http://koubo.jp/contest/411552) | 株式会社光・彩 | 受付中 |
+| 2026年12月15日 | [JA柳川 12月のクイズ](https://koubo.jp/contest/410886) | JA柳川 | 受付中 |
 | 締切 | 案件名 | 主催 | 状態 |
 |---|---|---|---|
 | 2026年11月1日 | [DJI POWER JAPAN プレゼントキャンペーン](https://koubo.jp/contest/395349) | DJI POWER JAPAN | 終了 |
